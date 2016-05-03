@@ -8,10 +8,12 @@
 
 #include <iostream>
 #include "HomeWork.hpp"
+#include "FirstExer.hpp"
 
 int main(int argc, const char * argv[]) {
     
-    mainHomeWork();
+    //mainHomeWork();
+    mainFirstExer();
     
     return 0;
 }
