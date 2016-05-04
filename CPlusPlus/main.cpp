@@ -9,11 +9,13 @@
 #include <iostream>
 #include "HomeWork.hpp"
 #include "FirstExer.hpp"
+#include "Exerceise2.hpp"
 
 int main(int argc, const char * argv[]) {
     
     //mainHomeWork();
-    mainFirstExer();
+    //mainFirstExer();
+    mainExerceise2();
     
     return 0;
 }

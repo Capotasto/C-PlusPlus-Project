@@ -10,6 +10,7 @@
 		1A39DBE61CD87DF9002E740D /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1A39DBE51CD87DF9002E740D /* main.cpp */; };
 		1A39DBEE1CD87EB1002E740D /* HomeWork.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1A39DBEC1CD87EB1002E740D /* HomeWork.cpp */; };
 		1A39DBF11CD90C92002E740D /* FirstExer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1A39DBEF1CD90C92002E740D /* FirstExer.cpp */; };
+		1AAC5DEC1CDA595D00F62C01 /* Exerceise2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1AAC5DEA1CDA595D00F62C01 /* Exerceise2.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +32,8 @@
 		1A39DBED1CD87EB1002E740D /* HomeWork.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = HomeWork.hpp; sourceTree = "<group>"; };
 		1A39DBEF1CD90C92002E740D /* FirstExer.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = FirstExer.cpp; sourceTree = "<group>"; };
 		1A39DBF01CD90C92002E740D /* FirstExer.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = FirstExer.hpp; sourceTree = "<group>"; };
+		1AAC5DEA1CDA595D00F62C01 /* Exerceise2.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Exerceise2.cpp; sourceTree = "<group>"; };
+		1AAC5DEB1CDA595D00F62C01 /* Exerceise2.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Exerceise2.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +70,8 @@
 				1A39DBEC1CD87EB1002E740D /* HomeWork.cpp */,
 				1A39DBED1CD87EB1002E740D /* HomeWork.hpp */,
 				1A39DBEF1CD90C92002E740D /* FirstExer.cpp */,
+				1AAC5DEA1CDA595D00F62C01 /* Exerceise2.cpp */,
+				1AAC5DEB1CDA595D00F62C01 /* Exerceise2.hpp */,
 				1A39DBF01CD90C92002E740D /* FirstExer.hpp */,
 			);
 			path = CPlusPlus;
@@ -130,6 +135,7 @@
 			files = (
 				1A39DBF11CD90C92002E740D /* FirstExer.cpp in Sources */,
 				1A39DBE61CD87DF9002E740D /* main.cpp in Sources */,
+				1AAC5DEC1CDA595D00F62C01 /* Exerceise2.cpp in Sources */,
 				1A39DBEE1CD87EB1002E740D /* HomeWork.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
