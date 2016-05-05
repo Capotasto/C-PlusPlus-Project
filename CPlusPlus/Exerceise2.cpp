@@ -79,7 +79,7 @@ void printShapeExer2(char array[SIZE_EXER_2][SIZE_EXER_2]){
     }
 }
 
-void showStarts(){
+void mainExerceise2(){
     
     char array[SIZE_EXER_2][SIZE_EXER_2];
     
@@ -87,11 +87,5 @@ void showStarts(){
     
     printShapeExer2(array);
 
-}
-
-
-void mainExerceise2(){
     
-    showStarts();
-
 }

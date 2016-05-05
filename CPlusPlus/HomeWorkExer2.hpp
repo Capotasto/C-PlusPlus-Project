@@ -1,22 +1,22 @@
 //
-//  Exerceise2.hpp
+//  HomeWorkExer2.hpp
 //  CPlusPlus
 //
 //  Created by Norio Egi on 5/4/16.
 //  Copyright © 2016 Capotasto. All rights reserved.
 //
 
-#ifndef Exerceise2_hpp
-#define Exerceise2_hpp
+#ifndef HomeWorkExer2_hpp
+#define HomeWorkExer2_hpp
 
 #include <iostream>
 #include <cstdlib>
 
-using std::string;
 using std::cout;
 using std::cin;
 using std::endl;
+using std::string;
 
-void mainExerceise2();
+void mainHomeWorkExer2();
 
-#endif /* Exerceise2_hpp */
+#endif /* HomeWorkExer2_hpp */
