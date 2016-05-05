@@ -11,13 +11,16 @@
 #include "FirstExer.hpp"
 #include "Exerceise2.hpp"
 #include "HomeWorkExer2.hpp"
+#include "Exercise3.hpp"
 
 int main(int argc, const char * argv[]) {
     
     //mainHomeWork();
     //mainFirstExer();
     //mainExerceise2();
-    mainHomeWorkExer2();
+    //mainHomeWorkExer2();
+    mainExercise3();
+    //printStarExer3();
     
     return 0;
 }

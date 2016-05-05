@@ -12,6 +12,7 @@
 		1A39DBF11CD90C92002E740D /* FirstExer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1A39DBEF1CD90C92002E740D /* FirstExer.cpp */; };
 		1AAC5DEC1CDA595D00F62C01 /* Exerceise2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1AAC5DEA1CDA595D00F62C01 /* Exerceise2.cpp */; };
 		1AAC5DF21CDA9B7C00F62C01 /* HomeWorkExer2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1AAC5DF01CDA9B7C00F62C01 /* HomeWorkExer2.cpp */; };
+		1AAC5E0E1CDBB36700F62C01 /* Exercise3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1AAC5E0C1CDBB36700F62C01 /* Exercise3.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -37,6 +38,8 @@
 		1AAC5DEB1CDA595D00F62C01 /* Exerceise2.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Exerceise2.hpp; sourceTree = "<group>"; };
 		1AAC5DF01CDA9B7C00F62C01 /* HomeWorkExer2.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = HomeWorkExer2.cpp; sourceTree = "<group>"; };
 		1AAC5DF11CDA9B7C00F62C01 /* HomeWorkExer2.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = HomeWorkExer2.hpp; sourceTree = "<group>"; };
+		1AAC5E0C1CDBB36700F62C01 /* Exercise3.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Exercise3.cpp; sourceTree = "<group>"; };
+		1AAC5E0D1CDBB36700F62C01 /* Exercise3.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Exercise3.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +73,8 @@
 			isa = PBXGroup;
 			children = (
 				1A39DBE51CD87DF9002E740D /* main.cpp */,
+				1AAC5E0C1CDBB36700F62C01 /* Exercise3.cpp */,
+				1AAC5E0D1CDBB36700F62C01 /* Exercise3.hpp */,
 				1A39DBEC1CD87EB1002E740D /* HomeWork.cpp */,
 				1A39DBED1CD87EB1002E740D /* HomeWork.hpp */,
 				1A39DBEF1CD90C92002E740D /* FirstExer.cpp */,
@@ -141,6 +146,7 @@
 				1A39DBF11CD90C92002E740D /* FirstExer.cpp in Sources */,
 				1A39DBE61CD87DF9002E740D /* main.cpp in Sources */,
 				1AAC5DEC1CDA595D00F62C01 /* Exerceise2.cpp in Sources */,
+				1AAC5E0E1CDBB36700F62C01 /* Exercise3.cpp in Sources */,
 				1AAC5DF21CDA9B7C00F62C01 /* HomeWorkExer2.cpp in Sources */,
 				1A39DBEE1CD87EB1002E740D /* HomeWork.cpp in Sources */,
 			);
