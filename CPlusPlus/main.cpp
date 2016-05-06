@@ -12,6 +12,7 @@
 #include "Exerceise2.hpp"
 #include "HomeWorkExer2.hpp"
 #include "Exercise3.hpp"
+#include "Exercise4.hpp"
 
 int main(int argc, const char * argv[]) {
     
@@ -19,8 +20,9 @@ int main(int argc, const char * argv[]) {
     //mainFirstExer();
     //mainExerceise2();
     //mainHomeWorkExer2();
-    mainExercise3();
+    //mainExercise3();
     //printStarExer3();
+    mainExercise4();
     
     return 0;
 }
