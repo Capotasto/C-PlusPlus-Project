@@ -8,8 +8,8 @@
 
 #include "Exercise4.hpp"
 
-const int SIZE_EXER4 = 10;
-
+const int SIZE_EXER4 = 3;
+const int SIZE_TEMP = SIZE_EXER4 *2;
 
 void printArrayNumber(int *array, int num){
     
@@ -72,9 +72,9 @@ bool isSorted(int *array, int size){
 
 void sortTwoDimArray(int array[][SIZE_EXER4]){
     
-    int tempSize =SIZE_EXER4*2;
+    //int tempSize =SIZE_EXER4*2;
     
-    int tempArray[tempSize];
+    int tempArray[SIZE_TEMP];
     int k =0;
     //copy to tempArray
     for (int i = 0; i < 2; i++) {
@@ -86,17 +86,17 @@ void sortTwoDimArray(int array[][SIZE_EXER4]){
     
     //Sorting tempArray
     do {
-        for (int i = 0 ; i< tempSize; i++) {
+        for (int i = 0 ; i< SIZE_TEMP-1; i++) {
             if (tempArray[i] > tempArray[i+1]) {
                 int temp = tempArray[i+1];
                 tempArray[i+1] = tempArray[i];
                 tempArray[i] = temp;
             }
         }
-    } while (!isSorted(tempArray, tempSize));
+    } while (!isSorted(tempArray, SIZE_TEMP));
     
     //Restored to Two Dimentional Array
-    for (int i = 0; i < tempSize; i++) {
+    for (int i = 0; i < SIZE_TEMP; i++) {
         if (i < SIZE_EXER4) {
             array[0][i] = tempArray[i];
         }else{
