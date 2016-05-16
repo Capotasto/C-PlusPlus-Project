@@ -10,6 +10,8 @@
 #define Assignment2_hpp
 
 #include <iostream>
+#include <string>
+using namespace std;
 
 void mainAssignment2();
 

@@ -22,6 +22,7 @@
 		1AEC54C01CE500AE007E4D08 /* ProductExer8.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1AEC54BE1CE500AE007E4D08 /* ProductExer8.cpp */; };
 		1AEC54C31CE504E8007E4D08 /* DriverExer8.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1AEC54C11CE504E8007E4D08 /* DriverExer8.cpp */; };
 		1AEC54C61CE50B56007E4D08 /* EmployeeExer8.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1AEC54C41CE50B56007E4D08 /* EmployeeExer8.cpp */; };
+		1AEC54C91CE63D90007E4D08 /* Airplane.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1AEC54C71CE63D90007E4D08 /* Airplane.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -67,6 +68,8 @@
 		1AEC54C21CE504E8007E4D08 /* DriverExer8.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = DriverExer8.hpp; sourceTree = "<group>"; };
 		1AEC54C41CE50B56007E4D08 /* EmployeeExer8.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = EmployeeExer8.cpp; sourceTree = "<group>"; };
 		1AEC54C51CE50B56007E4D08 /* EmployeeExer8.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = EmployeeExer8.hpp; sourceTree = "<group>"; };
+		1AEC54C71CE63D90007E4D08 /* Airplane.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Airplane.cpp; sourceTree = "<group>"; };
+		1AEC54C81CE63D90007E4D08 /* Airplane.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Airplane.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -120,14 +123,16 @@
 				1AAC5E191CE249AF00F62C01 /* Exercise6.hpp */,
 				1A6C41D11CE3A17100581A20 /* Exercise7.cpp */,
 				1A6C41D21CE3A17100581A20 /* Exercise7.hpp */,
-				1AEC54BB1CE4FF33007E4D08 /* Assignment2.cpp */,
-				1AEC54BC1CE4FF33007E4D08 /* Assignment2.hpp */,
 				1AEC54BE1CE500AE007E4D08 /* ProductExer8.cpp */,
 				1AEC54BF1CE500AE007E4D08 /* ProductExer8.hpp */,
 				1AEC54C11CE504E8007E4D08 /* DriverExer8.cpp */,
 				1AEC54C21CE504E8007E4D08 /* DriverExer8.hpp */,
 				1AEC54C41CE50B56007E4D08 /* EmployeeExer8.cpp */,
 				1AEC54C51CE50B56007E4D08 /* EmployeeExer8.hpp */,
+				1AEC54BB1CE4FF33007E4D08 /* Assignment2.cpp */,
+				1AEC54BC1CE4FF33007E4D08 /* Assignment2.hpp */,
+				1AEC54C71CE63D90007E4D08 /* Airplane.cpp */,
+				1AEC54C81CE63D90007E4D08 /* Airplane.hpp */,
 			);
 			path = CPlusPlus;
 			sourceTree = "<group>";
@@ -197,6 +202,7 @@
 				1AAC5E141CDD263100F62C01 /* Assignment1.cpp in Sources */,
 				1AEC54C31CE504E8007E4D08 /* DriverExer8.cpp in Sources */,
 				1AEC54C01CE500AE007E4D08 /* ProductExer8.cpp in Sources */,
+				1AEC54C91CE63D90007E4D08 /* Airplane.cpp in Sources */,
 				1AAC5E171CE0F81900F62C01 /* Exercise5.cpp in Sources */,
 				1AAC5DEC1CDA595D00F62C01 /* Exerceise2.cpp in Sources */,
 				1AAC5E111CDCFD1400F62C01 /* Exercise4.cpp in Sources */,
