@@ -23,6 +23,8 @@
 		1AEC54C31CE504E8007E4D08 /* DriverExer8.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1AEC54C11CE504E8007E4D08 /* DriverExer8.cpp */; };
 		1AEC54C61CE50B56007E4D08 /* EmployeeExer8.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1AEC54C41CE50B56007E4D08 /* EmployeeExer8.cpp */; };
 		1AEC54C91CE63D90007E4D08 /* Airplane.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1AEC54C71CE63D90007E4D08 /* Airplane.cpp */; };
+		1AEC54CC1CEA44F9007E4D08 /* Exercise9.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1AEC54CA1CEA44F9007E4D08 /* Exercise9.cpp */; };
+		1AEC54CF1CEA50AC007E4D08 /* ClassRoom.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1AEC54CD1CEA50AC007E4D08 /* ClassRoom.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -70,6 +72,10 @@
 		1AEC54C51CE50B56007E4D08 /* EmployeeExer8.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = EmployeeExer8.hpp; sourceTree = "<group>"; };
 		1AEC54C71CE63D90007E4D08 /* Airplane.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Airplane.cpp; sourceTree = "<group>"; };
 		1AEC54C81CE63D90007E4D08 /* Airplane.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Airplane.hpp; sourceTree = "<group>"; };
+		1AEC54CA1CEA44F9007E4D08 /* Exercise9.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Exercise9.cpp; sourceTree = "<group>"; };
+		1AEC54CB1CEA44F9007E4D08 /* Exercise9.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Exercise9.hpp; sourceTree = "<group>"; };
+		1AEC54CD1CEA50AC007E4D08 /* ClassRoom.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ClassRoom.cpp; sourceTree = "<group>"; };
+		1AEC54CE1CEA50AC007E4D08 /* ClassRoom.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = ClassRoom.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -133,6 +139,10 @@
 				1AEC54BC1CE4FF33007E4D08 /* Assignment2.hpp */,
 				1AEC54C71CE63D90007E4D08 /* Airplane.cpp */,
 				1AEC54C81CE63D90007E4D08 /* Airplane.hpp */,
+				1AEC54CA1CEA44F9007E4D08 /* Exercise9.cpp */,
+				1AEC54CB1CEA44F9007E4D08 /* Exercise9.hpp */,
+				1AEC54CD1CEA50AC007E4D08 /* ClassRoom.cpp */,
+				1AEC54CE1CEA50AC007E4D08 /* ClassRoom.hpp */,
 			);
 			path = CPlusPlus;
 			sourceTree = "<group>";
@@ -196,6 +206,7 @@
 				1A39DBF11CD90C92002E740D /* FirstExer.cpp in Sources */,
 				1A39DBE61CD87DF9002E740D /* main.cpp in Sources */,
 				1AAC5E1A1CE249AF00F62C01 /* Exercise6.cpp in Sources */,
+				1AEC54CF1CEA50AC007E4D08 /* ClassRoom.cpp in Sources */,
 				1AEC54C61CE50B56007E4D08 /* EmployeeExer8.cpp in Sources */,
 				1AEC54BD1CE4FF33007E4D08 /* Assignment2.cpp in Sources */,
 				1A6C41D31CE3A17100581A20 /* Exercise7.cpp in Sources */,
@@ -208,6 +219,7 @@
 				1AAC5E111CDCFD1400F62C01 /* Exercise4.cpp in Sources */,
 				1AAC5E0E1CDBB36700F62C01 /* Exercise3.cpp in Sources */,
 				1AAC5DF21CDA9B7C00F62C01 /* HomeWorkExer2.cpp in Sources */,
+				1AEC54CC1CEA44F9007E4D08 /* Exercise9.cpp in Sources */,
 				1A39DBEE1CD87EB1002E740D /* HomeWork.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

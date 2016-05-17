@@ -27,7 +27,7 @@ enum type_plane{
 
 enum type_class{
     FIRST,//0
-    BUISINESS,//1
+    BUSINESS,//1
     ECONOMY//2
 };
 

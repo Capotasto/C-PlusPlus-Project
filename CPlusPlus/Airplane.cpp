@@ -8,6 +8,28 @@
 
 #include "Airplane.hpp"
 
+void initArrays(bool** first, bool** business, bool** economy, int row){
+    
+    for (int i = 0; i < FIRST_ROW; i++) {
+        for (int j = 0; j < FIRST_COL; j++) {
+            first[i][j] = false;
+        }
+    }
+    
+    for (int i = 0; i < BUSINESS_ROW; i++) {
+        for (int j = 0; j < BUSINESS_COL; j++) {
+            business[i][j] = false;
+        }
+    }
+    
+    for (int i = 0; i < row; i++) {
+        for (int j = 0; j < ECONOMY_COL; j++) {
+            economy[i][j] = false;
+        }
+    }
+    
+}
+
 //constructor
 Airplane::Airplane(int planeType, int rowSize){
     switch (planeType) {
@@ -40,6 +62,8 @@ Airplane::Airplane(int planeType, int rowSize){
     }
     
     this->economyRowNum = rowSize;
+    
+    initArrays(firstClass, businessClass, economyClass, economyRowNum);
     
 };
 //destructor
@@ -133,13 +157,17 @@ void Airplane::updateReservation(int classType, int row, int col, bool isReserve
     
     switch (classType) {
         case FIRST:
-            firstClass[row][col] = isReserve;
+            if (firstClass[row][col-3] != isReserve){
+                firstClass[row][col-3] = isReserve;
+                
+            }
+            
             break;
-        case BUISINESS:
-            businessClass[row][col] = isReserve;
+        case BUSINESS:
+            businessClass[row-5][col-2] = isReserve;
             break;
         case ECONOMY:
-            economyClass[row][col] = isReserve;
+            economyClass[row-11][col] = isReserve;
             break;
             
         default:
