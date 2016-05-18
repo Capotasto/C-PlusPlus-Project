@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1A162F891CEB88F800F7C4EB /* Excercise10.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1A162F871CEB88F800F7C4EB /* Excercise10.cpp */; };
+		1A162F8C1CEB899600F7C4EB /* AccountExer10.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1A162F8A1CEB899600F7C4EB /* AccountExer10.cpp */; };
+		1A162F8F1CEBA60200F7C4EB /* AddressExer10.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1A162F8D1CEBA60200F7C4EB /* AddressExer10.cpp */; };
+		1A162F921CEBA61A00F7C4EB /* DepartmentExer10.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1A162F901CEBA61A00F7C4EB /* DepartmentExer10.cpp */; };
 		1A39DBE61CD87DF9002E740D /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1A39DBE51CD87DF9002E740D /* main.cpp */; };
 		1A39DBEE1CD87EB1002E740D /* HomeWork.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1A39DBEC1CD87EB1002E740D /* HomeWork.cpp */; };
 		1A39DBF11CD90C92002E740D /* FirstExer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1A39DBEF1CD90C92002E740D /* FirstExer.cpp */; };
@@ -40,6 +44,14 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		1A162F871CEB88F800F7C4EB /* Excercise10.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Excercise10.cpp; sourceTree = "<group>"; };
+		1A162F881CEB88F800F7C4EB /* Excercise10.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Excercise10.hpp; sourceTree = "<group>"; };
+		1A162F8A1CEB899600F7C4EB /* AccountExer10.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = AccountExer10.cpp; sourceTree = "<group>"; };
+		1A162F8B1CEB899600F7C4EB /* AccountExer10.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = AccountExer10.hpp; sourceTree = "<group>"; };
+		1A162F8D1CEBA60200F7C4EB /* AddressExer10.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = AddressExer10.cpp; sourceTree = "<group>"; };
+		1A162F8E1CEBA60200F7C4EB /* AddressExer10.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = AddressExer10.hpp; sourceTree = "<group>"; };
+		1A162F901CEBA61A00F7C4EB /* DepartmentExer10.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = DepartmentExer10.cpp; sourceTree = "<group>"; };
+		1A162F911CEBA61A00F7C4EB /* DepartmentExer10.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = DepartmentExer10.hpp; sourceTree = "<group>"; };
 		1A39DBE21CD87DF9002E740D /* CPlusPlus */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CPlusPlus; sourceTree = BUILT_PRODUCTS_DIR; };
 		1A39DBE51CD87DF9002E740D /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		1A39DBEC1CD87EB1002E740D /* HomeWork.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = HomeWork.cpp; sourceTree = "<group>"; };
@@ -89,6 +101,25 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		1A162F931CEBA65500F7C4EB /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				1AEC54C71CE63D90007E4D08 /* Airplane.cpp */,
+				1AEC54C81CE63D90007E4D08 /* Airplane.hpp */,
+				1AEC54CD1CEA50AC007E4D08 /* ClassRoom.cpp */,
+				1AEC54CE1CEA50AC007E4D08 /* ClassRoom.hpp */,
+				1AEC54C41CE50B56007E4D08 /* EmployeeExer8.cpp */,
+				1AEC54C51CE50B56007E4D08 /* EmployeeExer8.hpp */,
+				1A162F8A1CEB899600F7C4EB /* AccountExer10.cpp */,
+				1A162F8B1CEB899600F7C4EB /* AccountExer10.hpp */,
+				1A162F8D1CEBA60200F7C4EB /* AddressExer10.cpp */,
+				1A162F8E1CEBA60200F7C4EB /* AddressExer10.hpp */,
+				1A162F901CEBA61A00F7C4EB /* DepartmentExer10.cpp */,
+				1A162F911CEBA61A00F7C4EB /* DepartmentExer10.hpp */,
+			);
+			name = Classes;
+			sourceTree = "<group>";
+		};
 		1A39DBD91CD87DF8002E740D = {
 			isa = PBXGroup;
 			children = (
@@ -108,6 +139,7 @@
 		1A39DBE41CD87DF9002E740D /* CPlusPlus */ = {
 			isa = PBXGroup;
 			children = (
+				1A162F931CEBA65500F7C4EB /* Classes */,
 				1A39DBE51CD87DF9002E740D /* main.cpp */,
 				1AAC5E121CDD263100F62C01 /* Assignment1.cpp */,
 				1AAC5E131CDD263100F62C01 /* Assignment1.hpp */,
@@ -133,16 +165,12 @@
 				1AEC54BF1CE500AE007E4D08 /* ProductExer8.hpp */,
 				1AEC54C11CE504E8007E4D08 /* DriverExer8.cpp */,
 				1AEC54C21CE504E8007E4D08 /* DriverExer8.hpp */,
-				1AEC54C41CE50B56007E4D08 /* EmployeeExer8.cpp */,
-				1AEC54C51CE50B56007E4D08 /* EmployeeExer8.hpp */,
 				1AEC54BB1CE4FF33007E4D08 /* Assignment2.cpp */,
 				1AEC54BC1CE4FF33007E4D08 /* Assignment2.hpp */,
-				1AEC54C71CE63D90007E4D08 /* Airplane.cpp */,
-				1AEC54C81CE63D90007E4D08 /* Airplane.hpp */,
 				1AEC54CA1CEA44F9007E4D08 /* Exercise9.cpp */,
 				1AEC54CB1CEA44F9007E4D08 /* Exercise9.hpp */,
-				1AEC54CD1CEA50AC007E4D08 /* ClassRoom.cpp */,
-				1AEC54CE1CEA50AC007E4D08 /* ClassRoom.hpp */,
+				1A162F871CEB88F800F7C4EB /* Excercise10.cpp */,
+				1A162F881CEB88F800F7C4EB /* Excercise10.hpp */,
 			);
 			path = CPlusPlus;
 			sourceTree = "<group>";
@@ -203,6 +231,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1A162F921CEBA61A00F7C4EB /* DepartmentExer10.cpp in Sources */,
 				1A39DBF11CD90C92002E740D /* FirstExer.cpp in Sources */,
 				1A39DBE61CD87DF9002E740D /* main.cpp in Sources */,
 				1AAC5E1A1CE249AF00F62C01 /* Exercise6.cpp in Sources */,
@@ -211,6 +240,8 @@
 				1AEC54BD1CE4FF33007E4D08 /* Assignment2.cpp in Sources */,
 				1A6C41D31CE3A17100581A20 /* Exercise7.cpp in Sources */,
 				1AAC5E141CDD263100F62C01 /* Assignment1.cpp in Sources */,
+				1A162F8F1CEBA60200F7C4EB /* AddressExer10.cpp in Sources */,
+				1A162F8C1CEB899600F7C4EB /* AccountExer10.cpp in Sources */,
 				1AEC54C31CE504E8007E4D08 /* DriverExer8.cpp in Sources */,
 				1AEC54C01CE500AE007E4D08 /* ProductExer8.cpp in Sources */,
 				1AEC54C91CE63D90007E4D08 /* Airplane.cpp in Sources */,
@@ -220,6 +251,7 @@
 				1AAC5E0E1CDBB36700F62C01 /* Exercise3.cpp in Sources */,
 				1AAC5DF21CDA9B7C00F62C01 /* HomeWorkExer2.cpp in Sources */,
 				1AEC54CC1CEA44F9007E4D08 /* Exercise9.cpp in Sources */,
+				1A162F891CEB88F800F7C4EB /* Excercise10.cpp in Sources */,
 				1A39DBEE1CD87EB1002E740D /* HomeWork.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
