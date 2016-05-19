@@ -9,7 +9,7 @@
 #include "DepartmentExer10.hpp"
 
 //constructor
-DepartmentExer10::DepartmentExer10(string name, AddressExer10 location, string telephone, string email):
+DepartmentExer10::DepartmentExer10(string name, AddressExer10 &location, string telephone, string email):
 name(name),
 location(location),
 telephone(telephone),
@@ -33,7 +33,7 @@ string DepartmentExer10::getEmail(){
 void DepartmentExer10::setName(string name){
     this->name = name;
 };
-void DepartmentExer10::setLocation(AddressExer10 location){
+void DepartmentExer10::setLocation(AddressExer10 &location){
     this->location = location;
 };
 //const string setTelephone;

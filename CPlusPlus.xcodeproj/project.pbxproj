@@ -15,6 +15,10 @@
 		1A39DBEE1CD87EB1002E740D /* HomeWork.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1A39DBEC1CD87EB1002E740D /* HomeWork.cpp */; };
 		1A39DBF11CD90C92002E740D /* FirstExer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1A39DBEF1CD90C92002E740D /* FirstExer.cpp */; };
 		1A6C41D31CE3A17100581A20 /* Exercise7.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1A6C41D11CE3A17100581A20 /* Exercise7.cpp */; };
+		1A9C40341CECF993007D6A8D /* BedExer11.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1A9C40321CECF993007D6A8D /* BedExer11.cpp */; };
+		1A9C40371CECFD76007D6A8D /* BunkBed.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1A9C40351CECFD76007D6A8D /* BunkBed.cpp */; };
+		1A9C403A1CED186E007D6A8D /* Exer11.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1A9C40381CED186E007D6A8D /* Exer11.cpp */; };
+		1A9C403D1CED42F7007D6A8D /* DayBed.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1A9C403B1CED42F7007D6A8D /* DayBed.cpp */; };
 		1AAC5DEC1CDA595D00F62C01 /* Exerceise2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1AAC5DEA1CDA595D00F62C01 /* Exerceise2.cpp */; };
 		1AAC5DF21CDA9B7C00F62C01 /* HomeWorkExer2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1AAC5DF01CDA9B7C00F62C01 /* HomeWorkExer2.cpp */; };
 		1AAC5E0E1CDBB36700F62C01 /* Exercise3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1AAC5E0C1CDBB36700F62C01 /* Exercise3.cpp */; };
@@ -60,6 +64,14 @@
 		1A39DBF01CD90C92002E740D /* FirstExer.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = FirstExer.hpp; sourceTree = "<group>"; };
 		1A6C41D11CE3A17100581A20 /* Exercise7.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Exercise7.cpp; sourceTree = "<group>"; };
 		1A6C41D21CE3A17100581A20 /* Exercise7.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Exercise7.hpp; sourceTree = "<group>"; };
+		1A9C40321CECF993007D6A8D /* BedExer11.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = BedExer11.cpp; sourceTree = "<group>"; };
+		1A9C40331CECF993007D6A8D /* BedExer11.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = BedExer11.hpp; sourceTree = "<group>"; };
+		1A9C40351CECFD76007D6A8D /* BunkBed.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = BunkBed.cpp; sourceTree = "<group>"; };
+		1A9C40361CECFD76007D6A8D /* BunkBed.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = BunkBed.hpp; sourceTree = "<group>"; };
+		1A9C40381CED186E007D6A8D /* Exer11.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Exer11.cpp; sourceTree = "<group>"; };
+		1A9C40391CED186E007D6A8D /* Exer11.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Exer11.hpp; sourceTree = "<group>"; };
+		1A9C403B1CED42F7007D6A8D /* DayBed.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = DayBed.cpp; sourceTree = "<group>"; };
+		1A9C403C1CED42F7007D6A8D /* DayBed.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = DayBed.hpp; sourceTree = "<group>"; };
 		1AAC5DEA1CDA595D00F62C01 /* Exerceise2.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Exerceise2.cpp; sourceTree = "<group>"; };
 		1AAC5DEB1CDA595D00F62C01 /* Exerceise2.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Exerceise2.hpp; sourceTree = "<group>"; };
 		1AAC5DF01CDA9B7C00F62C01 /* HomeWorkExer2.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = HomeWorkExer2.cpp; sourceTree = "<group>"; };
@@ -116,6 +128,12 @@
 				1A162F8E1CEBA60200F7C4EB /* AddressExer10.hpp */,
 				1A162F901CEBA61A00F7C4EB /* DepartmentExer10.cpp */,
 				1A162F911CEBA61A00F7C4EB /* DepartmentExer10.hpp */,
+				1A9C40321CECF993007D6A8D /* BedExer11.cpp */,
+				1A9C40331CECF993007D6A8D /* BedExer11.hpp */,
+				1A9C40351CECFD76007D6A8D /* BunkBed.cpp */,
+				1A9C40361CECFD76007D6A8D /* BunkBed.hpp */,
+				1A9C403B1CED42F7007D6A8D /* DayBed.cpp */,
+				1A9C403C1CED42F7007D6A8D /* DayBed.hpp */,
 			);
 			name = Classes;
 			sourceTree = "<group>";
@@ -171,6 +189,8 @@
 				1AEC54CB1CEA44F9007E4D08 /* Exercise9.hpp */,
 				1A162F871CEB88F800F7C4EB /* Excercise10.cpp */,
 				1A162F881CEB88F800F7C4EB /* Excercise10.hpp */,
+				1A9C40381CED186E007D6A8D /* Exer11.cpp */,
+				1A9C40391CED186E007D6A8D /* Exer11.hpp */,
 			);
 			path = CPlusPlus;
 			sourceTree = "<group>";
@@ -232,6 +252,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1A162F921CEBA61A00F7C4EB /* DepartmentExer10.cpp in Sources */,
+				1A9C403A1CED186E007D6A8D /* Exer11.cpp in Sources */,
 				1A39DBF11CD90C92002E740D /* FirstExer.cpp in Sources */,
 				1A39DBE61CD87DF9002E740D /* main.cpp in Sources */,
 				1AAC5E1A1CE249AF00F62C01 /* Exercise6.cpp in Sources */,
@@ -242,6 +263,7 @@
 				1AAC5E141CDD263100F62C01 /* Assignment1.cpp in Sources */,
 				1A162F8F1CEBA60200F7C4EB /* AddressExer10.cpp in Sources */,
 				1A162F8C1CEB899600F7C4EB /* AccountExer10.cpp in Sources */,
+				1A9C40341CECF993007D6A8D /* BedExer11.cpp in Sources */,
 				1AEC54C31CE504E8007E4D08 /* DriverExer8.cpp in Sources */,
 				1AEC54C01CE500AE007E4D08 /* ProductExer8.cpp in Sources */,
 				1AEC54C91CE63D90007E4D08 /* Airplane.cpp in Sources */,
@@ -253,6 +275,8 @@
 				1AEC54CC1CEA44F9007E4D08 /* Exercise9.cpp in Sources */,
 				1A162F891CEB88F800F7C4EB /* Excercise10.cpp in Sources */,
 				1A39DBEE1CD87EB1002E740D /* HomeWork.cpp in Sources */,
+				1A9C403D1CED42F7007D6A8D /* DayBed.cpp in Sources */,
+				1A9C40371CECFD76007D6A8D /* BunkBed.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -16,7 +16,7 @@ using namespace std;
 class DepartmentExer10{
 public:
     //constructor
-    DepartmentExer10(string name, AddressExer10 location, string telephone, string email);
+    DepartmentExer10(string name, AddressExer10 &location, string telephone, string email);
     //gettter
     string getName();
     AddressExer10 getLocation();
@@ -25,7 +25,7 @@ public:
 
     //setter
     void setName(string name);
-    void setLocation(AddressExer10 location);
+    void setLocation(AddressExer10 &location);
     //const string setTelephone;
     void setEmail(string email);
     
