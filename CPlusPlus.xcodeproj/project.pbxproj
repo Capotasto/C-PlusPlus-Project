@@ -19,6 +19,12 @@
 		1A9C40371CECFD76007D6A8D /* BunkBed.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1A9C40351CECFD76007D6A8D /* BunkBed.cpp */; };
 		1A9C403A1CED186E007D6A8D /* Exer11.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1A9C40381CED186E007D6A8D /* Exer11.cpp */; };
 		1A9C403D1CED42F7007D6A8D /* DayBed.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1A9C403B1CED42F7007D6A8D /* DayBed.cpp */; };
+		1A9C404C1CEF9306007D6A8D /* VehicleAssignment.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1A9C404A1CEF9306007D6A8D /* VehicleAssignment.cpp */; };
+		1A9C404F1CEF96F6007D6A8D /* TruckAssignment.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1A9C404D1CEF96F6007D6A8D /* TruckAssignment.cpp */; };
+		1A9C40521CEFB20F007D6A8D /* DutyTruckAssignment.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1A9C40501CEFB20F007D6A8D /* DutyTruckAssignment.cpp */; };
+		1A9C40551CEFB5C8007D6A8D /* PickUpTruckAssignment.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1A9C40531CEFB5C8007D6A8D /* PickUpTruckAssignment.cpp */; };
+		1A9C40581CEFB7FE007D6A8D /* PassengerAssignment.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1A9C40561CEFB7FE007D6A8D /* PassengerAssignment.cpp */; };
+		1A9C405B1CEFBA2A007D6A8D /* driverAssignment3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1A9C40591CEFBA2A007D6A8D /* driverAssignment3.cpp */; };
 		1AAC5DEC1CDA595D00F62C01 /* Exerceise2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1AAC5DEA1CDA595D00F62C01 /* Exerceise2.cpp */; };
 		1AAC5DF21CDA9B7C00F62C01 /* HomeWorkExer2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1AAC5DF01CDA9B7C00F62C01 /* HomeWorkExer2.cpp */; };
 		1AAC5E0E1CDBB36700F62C01 /* Exercise3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1AAC5E0C1CDBB36700F62C01 /* Exercise3.cpp */; };
@@ -72,6 +78,18 @@
 		1A9C40391CED186E007D6A8D /* Exer11.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Exer11.hpp; sourceTree = "<group>"; };
 		1A9C403B1CED42F7007D6A8D /* DayBed.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = DayBed.cpp; sourceTree = "<group>"; };
 		1A9C403C1CED42F7007D6A8D /* DayBed.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = DayBed.hpp; sourceTree = "<group>"; };
+		1A9C404A1CEF9306007D6A8D /* VehicleAssignment.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = VehicleAssignment.cpp; sourceTree = "<group>"; };
+		1A9C404B1CEF9306007D6A8D /* VehicleAssignment.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = VehicleAssignment.hpp; sourceTree = "<group>"; };
+		1A9C404D1CEF96F6007D6A8D /* TruckAssignment.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = TruckAssignment.cpp; sourceTree = "<group>"; };
+		1A9C404E1CEF96F6007D6A8D /* TruckAssignment.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = TruckAssignment.hpp; sourceTree = "<group>"; };
+		1A9C40501CEFB20F007D6A8D /* DutyTruckAssignment.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = DutyTruckAssignment.cpp; sourceTree = "<group>"; };
+		1A9C40511CEFB20F007D6A8D /* DutyTruckAssignment.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = DutyTruckAssignment.hpp; sourceTree = "<group>"; };
+		1A9C40531CEFB5C8007D6A8D /* PickUpTruckAssignment.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = PickUpTruckAssignment.cpp; sourceTree = "<group>"; };
+		1A9C40541CEFB5C8007D6A8D /* PickUpTruckAssignment.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = PickUpTruckAssignment.hpp; sourceTree = "<group>"; };
+		1A9C40561CEFB7FE007D6A8D /* PassengerAssignment.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = PassengerAssignment.cpp; sourceTree = "<group>"; };
+		1A9C40571CEFB7FE007D6A8D /* PassengerAssignment.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = PassengerAssignment.hpp; sourceTree = "<group>"; };
+		1A9C40591CEFBA2A007D6A8D /* driverAssignment3.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = driverAssignment3.cpp; sourceTree = "<group>"; };
+		1A9C405A1CEFBA2A007D6A8D /* driverAssignment3.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = driverAssignment3.hpp; sourceTree = "<group>"; };
 		1AAC5DEA1CDA595D00F62C01 /* Exerceise2.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Exerceise2.cpp; sourceTree = "<group>"; };
 		1AAC5DEB1CDA595D00F62C01 /* Exerceise2.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Exerceise2.hpp; sourceTree = "<group>"; };
 		1AAC5DF01CDA9B7C00F62C01 /* HomeWorkExer2.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = HomeWorkExer2.cpp; sourceTree = "<group>"; };
@@ -134,6 +152,16 @@
 				1A9C40361CECFD76007D6A8D /* BunkBed.hpp */,
 				1A9C403B1CED42F7007D6A8D /* DayBed.cpp */,
 				1A9C403C1CED42F7007D6A8D /* DayBed.hpp */,
+				1A9C404A1CEF9306007D6A8D /* VehicleAssignment.cpp */,
+				1A9C404B1CEF9306007D6A8D /* VehicleAssignment.hpp */,
+				1A9C404D1CEF96F6007D6A8D /* TruckAssignment.cpp */,
+				1A9C404E1CEF96F6007D6A8D /* TruckAssignment.hpp */,
+				1A9C40501CEFB20F007D6A8D /* DutyTruckAssignment.cpp */,
+				1A9C40511CEFB20F007D6A8D /* DutyTruckAssignment.hpp */,
+				1A9C40531CEFB5C8007D6A8D /* PickUpTruckAssignment.cpp */,
+				1A9C40541CEFB5C8007D6A8D /* PickUpTruckAssignment.hpp */,
+				1A9C40561CEFB7FE007D6A8D /* PassengerAssignment.cpp */,
+				1A9C40571CEFB7FE007D6A8D /* PassengerAssignment.hpp */,
 			);
 			name = Classes;
 			sourceTree = "<group>";
@@ -191,6 +219,8 @@
 				1A162F881CEB88F800F7C4EB /* Excercise10.hpp */,
 				1A9C40381CED186E007D6A8D /* Exer11.cpp */,
 				1A9C40391CED186E007D6A8D /* Exer11.hpp */,
+				1A9C40591CEFBA2A007D6A8D /* driverAssignment3.cpp */,
+				1A9C405A1CEFBA2A007D6A8D /* driverAssignment3.hpp */,
 			);
 			path = CPlusPlus;
 			sourceTree = "<group>";
@@ -257,6 +287,8 @@
 				1A39DBE61CD87DF9002E740D /* main.cpp in Sources */,
 				1AAC5E1A1CE249AF00F62C01 /* Exercise6.cpp in Sources */,
 				1AEC54CF1CEA50AC007E4D08 /* ClassRoom.cpp in Sources */,
+				1A9C40521CEFB20F007D6A8D /* DutyTruckAssignment.cpp in Sources */,
+				1A9C404F1CEF96F6007D6A8D /* TruckAssignment.cpp in Sources */,
 				1AEC54C61CE50B56007E4D08 /* EmployeeExer8.cpp in Sources */,
 				1AEC54BD1CE4FF33007E4D08 /* Assignment2.cpp in Sources */,
 				1A6C41D31CE3A17100581A20 /* Exercise7.cpp in Sources */,
@@ -264,18 +296,22 @@
 				1A162F8F1CEBA60200F7C4EB /* AddressExer10.cpp in Sources */,
 				1A162F8C1CEB899600F7C4EB /* AccountExer10.cpp in Sources */,
 				1A9C40341CECF993007D6A8D /* BedExer11.cpp in Sources */,
+				1A9C404C1CEF9306007D6A8D /* VehicleAssignment.cpp in Sources */,
 				1AEC54C31CE504E8007E4D08 /* DriverExer8.cpp in Sources */,
 				1AEC54C01CE500AE007E4D08 /* ProductExer8.cpp in Sources */,
 				1AEC54C91CE63D90007E4D08 /* Airplane.cpp in Sources */,
 				1AAC5E171CE0F81900F62C01 /* Exercise5.cpp in Sources */,
 				1AAC5DEC1CDA595D00F62C01 /* Exerceise2.cpp in Sources */,
 				1AAC5E111CDCFD1400F62C01 /* Exercise4.cpp in Sources */,
+				1A9C40551CEFB5C8007D6A8D /* PickUpTruckAssignment.cpp in Sources */,
 				1AAC5E0E1CDBB36700F62C01 /* Exercise3.cpp in Sources */,
 				1AAC5DF21CDA9B7C00F62C01 /* HomeWorkExer2.cpp in Sources */,
 				1AEC54CC1CEA44F9007E4D08 /* Exercise9.cpp in Sources */,
+				1A9C40581CEFB7FE007D6A8D /* PassengerAssignment.cpp in Sources */,
 				1A162F891CEB88F800F7C4EB /* Excercise10.cpp in Sources */,
 				1A39DBEE1CD87EB1002E740D /* HomeWork.cpp in Sources */,
 				1A9C403D1CED42F7007D6A8D /* DayBed.cpp in Sources */,
+				1A9C405B1CEFBA2A007D6A8D /* driverAssignment3.cpp in Sources */,
 				1A9C40371CECFD76007D6A8D /* BunkBed.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
