@@ -23,6 +23,8 @@
 #include "Excercise10.hpp"
 #include "Exer11.hpp"
 #include "driverAssignment3.hpp"
+#include "GlobalNumberExer.hpp"
+#include "Class15.hpp"
 
 int main(int argc, const char * argv[]) {
     
@@ -42,6 +44,8 @@ int main(int argc, const char * argv[]) {
     //mainExercise9();
     //mainExcercise10();
     //mainExer11();
-    driverAssignment3();
+    //driverAssignment3();
+    //mainGlobalNumberExer();
+    mainClass15();
     return 0;
 }

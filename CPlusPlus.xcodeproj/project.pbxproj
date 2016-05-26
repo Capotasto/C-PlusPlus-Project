@@ -14,6 +14,8 @@
 		1A39DBE61CD87DF9002E740D /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1A39DBE51CD87DF9002E740D /* main.cpp */; };
 		1A39DBEE1CD87EB1002E740D /* HomeWork.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1A39DBEC1CD87EB1002E740D /* HomeWork.cpp */; };
 		1A39DBF11CD90C92002E740D /* FirstExer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1A39DBEF1CD90C92002E740D /* FirstExer.cpp */; };
+		1A565A1C1CF60A68000761B2 /* GlobalNumberExer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1A565A1A1CF60A68000761B2 /* GlobalNumberExer.cpp */; };
+		1A565A1F1CF77600000761B2 /* Class15.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1A565A1D1CF77600000761B2 /* Class15.cpp */; };
 		1A6C41D31CE3A17100581A20 /* Exercise7.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1A6C41D11CE3A17100581A20 /* Exercise7.cpp */; };
 		1A9C40341CECF993007D6A8D /* BedExer11.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1A9C40321CECF993007D6A8D /* BedExer11.cpp */; };
 		1A9C40371CECFD76007D6A8D /* BunkBed.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1A9C40351CECFD76007D6A8D /* BunkBed.cpp */; };
@@ -68,6 +70,10 @@
 		1A39DBED1CD87EB1002E740D /* HomeWork.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = HomeWork.hpp; sourceTree = "<group>"; };
 		1A39DBEF1CD90C92002E740D /* FirstExer.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = FirstExer.cpp; sourceTree = "<group>"; };
 		1A39DBF01CD90C92002E740D /* FirstExer.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = FirstExer.hpp; sourceTree = "<group>"; };
+		1A565A1A1CF60A68000761B2 /* GlobalNumberExer.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = GlobalNumberExer.cpp; sourceTree = "<group>"; };
+		1A565A1B1CF60A68000761B2 /* GlobalNumberExer.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = GlobalNumberExer.hpp; sourceTree = "<group>"; };
+		1A565A1D1CF77600000761B2 /* Class15.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Class15.cpp; sourceTree = "<group>"; };
+		1A565A1E1CF77600000761B2 /* Class15.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Class15.hpp; sourceTree = "<group>"; };
 		1A6C41D11CE3A17100581A20 /* Exercise7.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Exercise7.cpp; sourceTree = "<group>"; };
 		1A6C41D21CE3A17100581A20 /* Exercise7.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Exercise7.hpp; sourceTree = "<group>"; };
 		1A9C40321CECF993007D6A8D /* BedExer11.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = BedExer11.cpp; sourceTree = "<group>"; };
@@ -221,6 +227,10 @@
 				1A9C40391CED186E007D6A8D /* Exer11.hpp */,
 				1A9C40591CEFBA2A007D6A8D /* driverAssignment3.cpp */,
 				1A9C405A1CEFBA2A007D6A8D /* driverAssignment3.hpp */,
+				1A565A1A1CF60A68000761B2 /* GlobalNumberExer.cpp */,
+				1A565A1B1CF60A68000761B2 /* GlobalNumberExer.hpp */,
+				1A565A1D1CF77600000761B2 /* Class15.cpp */,
+				1A565A1E1CF77600000761B2 /* Class15.hpp */,
 			);
 			path = CPlusPlus;
 			sourceTree = "<group>";
@@ -283,6 +293,7 @@
 			files = (
 				1A162F921CEBA61A00F7C4EB /* DepartmentExer10.cpp in Sources */,
 				1A9C403A1CED186E007D6A8D /* Exer11.cpp in Sources */,
+				1A565A1F1CF77600000761B2 /* Class15.cpp in Sources */,
 				1A39DBF11CD90C92002E740D /* FirstExer.cpp in Sources */,
 				1A39DBE61CD87DF9002E740D /* main.cpp in Sources */,
 				1AAC5E1A1CE249AF00F62C01 /* Exercise6.cpp in Sources */,
@@ -307,6 +318,7 @@
 				1AAC5E0E1CDBB36700F62C01 /* Exercise3.cpp in Sources */,
 				1AAC5DF21CDA9B7C00F62C01 /* HomeWorkExer2.cpp in Sources */,
 				1AEC54CC1CEA44F9007E4D08 /* Exercise9.cpp in Sources */,
+				1A565A1C1CF60A68000761B2 /* GlobalNumberExer.cpp in Sources */,
 				1A9C40581CEFB7FE007D6A8D /* PassengerAssignment.cpp in Sources */,
 				1A162F891CEB88F800F7C4EB /* Excercise10.cpp in Sources */,
 				1A39DBEE1CD87EB1002E740D /* HomeWork.cpp in Sources */,
