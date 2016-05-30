@@ -25,6 +25,8 @@
 #include "driverAssignment3.hpp"
 #include "GlobalNumberExer.hpp"
 #include "Class15.hpp"
+#include "VectorsExer.hpp"
+#include "ProtectedExer.hpp"
 
 int main(int argc, const char * argv[]) {
     
@@ -46,6 +48,8 @@ int main(int argc, const char * argv[]) {
     //mainExer11();
     //driverAssignment3();
     //mainGlobalNumberExer();
-    mainClass15();
+    //mainClass15();
+    //mainVectorsExer();
+    mainProtectedExer();
     return 0;
 }

@@ -16,6 +16,10 @@
 		1A39DBF11CD90C92002E740D /* FirstExer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1A39DBEF1CD90C92002E740D /* FirstExer.cpp */; };
 		1A565A1C1CF60A68000761B2 /* GlobalNumberExer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1A565A1A1CF60A68000761B2 /* GlobalNumberExer.cpp */; };
 		1A565A1F1CF77600000761B2 /* Class15.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1A565A1D1CF77600000761B2 /* Class15.cpp */; };
+		1A565A251CF8AEE7000761B2 /* VectorsExer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1A565A231CF8AEE7000761B2 /* VectorsExer.cpp */; };
+		1A565A2D1CFCA979000761B2 /* ProtectedExer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1A565A2B1CFCA979000761B2 /* ProtectedExer.cpp */; };
+		1A565A301CFCA9F3000761B2 /* House.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1A565A2E1CFCA9F3000761B2 /* House.cpp */; };
+		1A565A331CFCAA98000761B2 /* Apartment.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1A565A311CFCAA98000761B2 /* Apartment.cpp */; };
 		1A6C41D31CE3A17100581A20 /* Exercise7.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1A6C41D11CE3A17100581A20 /* Exercise7.cpp */; };
 		1A9C40341CECF993007D6A8D /* BedExer11.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1A9C40321CECF993007D6A8D /* BedExer11.cpp */; };
 		1A9C40371CECFD76007D6A8D /* BunkBed.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1A9C40351CECFD76007D6A8D /* BunkBed.cpp */; };
@@ -74,6 +78,14 @@
 		1A565A1B1CF60A68000761B2 /* GlobalNumberExer.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = GlobalNumberExer.hpp; sourceTree = "<group>"; };
 		1A565A1D1CF77600000761B2 /* Class15.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Class15.cpp; sourceTree = "<group>"; };
 		1A565A1E1CF77600000761B2 /* Class15.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Class15.hpp; sourceTree = "<group>"; };
+		1A565A231CF8AEE7000761B2 /* VectorsExer.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = VectorsExer.cpp; sourceTree = "<group>"; };
+		1A565A241CF8AEE7000761B2 /* VectorsExer.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = VectorsExer.hpp; sourceTree = "<group>"; };
+		1A565A2B1CFCA979000761B2 /* ProtectedExer.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ProtectedExer.cpp; sourceTree = "<group>"; };
+		1A565A2C1CFCA979000761B2 /* ProtectedExer.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = ProtectedExer.hpp; sourceTree = "<group>"; };
+		1A565A2E1CFCA9F3000761B2 /* House.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = House.cpp; sourceTree = "<group>"; };
+		1A565A2F1CFCA9F3000761B2 /* House.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = House.hpp; sourceTree = "<group>"; };
+		1A565A311CFCAA98000761B2 /* Apartment.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Apartment.cpp; sourceTree = "<group>"; };
+		1A565A321CFCAA98000761B2 /* Apartment.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Apartment.hpp; sourceTree = "<group>"; };
 		1A6C41D11CE3A17100581A20 /* Exercise7.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Exercise7.cpp; sourceTree = "<group>"; };
 		1A6C41D21CE3A17100581A20 /* Exercise7.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Exercise7.hpp; sourceTree = "<group>"; };
 		1A9C40321CECF993007D6A8D /* BedExer11.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = BedExer11.cpp; sourceTree = "<group>"; };
@@ -168,6 +180,10 @@
 				1A9C40541CEFB5C8007D6A8D /* PickUpTruckAssignment.hpp */,
 				1A9C40561CEFB7FE007D6A8D /* PassengerAssignment.cpp */,
 				1A9C40571CEFB7FE007D6A8D /* PassengerAssignment.hpp */,
+				1A565A2E1CFCA9F3000761B2 /* House.cpp */,
+				1A565A2F1CFCA9F3000761B2 /* House.hpp */,
+				1A565A311CFCAA98000761B2 /* Apartment.cpp */,
+				1A565A321CFCAA98000761B2 /* Apartment.hpp */,
 			);
 			name = Classes;
 			sourceTree = "<group>";
@@ -231,6 +247,10 @@
 				1A565A1B1CF60A68000761B2 /* GlobalNumberExer.hpp */,
 				1A565A1D1CF77600000761B2 /* Class15.cpp */,
 				1A565A1E1CF77600000761B2 /* Class15.hpp */,
+				1A565A231CF8AEE7000761B2 /* VectorsExer.cpp */,
+				1A565A241CF8AEE7000761B2 /* VectorsExer.hpp */,
+				1A565A2B1CFCA979000761B2 /* ProtectedExer.cpp */,
+				1A565A2C1CFCA979000761B2 /* ProtectedExer.hpp */,
 			);
 			path = CPlusPlus;
 			sourceTree = "<group>";
@@ -295,7 +315,9 @@
 				1A9C403A1CED186E007D6A8D /* Exer11.cpp in Sources */,
 				1A565A1F1CF77600000761B2 /* Class15.cpp in Sources */,
 				1A39DBF11CD90C92002E740D /* FirstExer.cpp in Sources */,
+				1A565A301CFCA9F3000761B2 /* House.cpp in Sources */,
 				1A39DBE61CD87DF9002E740D /* main.cpp in Sources */,
+				1A565A331CFCAA98000761B2 /* Apartment.cpp in Sources */,
 				1AAC5E1A1CE249AF00F62C01 /* Exercise6.cpp in Sources */,
 				1AEC54CF1CEA50AC007E4D08 /* ClassRoom.cpp in Sources */,
 				1A9C40521CEFB20F007D6A8D /* DutyTruckAssignment.cpp in Sources */,
@@ -304,8 +326,10 @@
 				1AEC54BD1CE4FF33007E4D08 /* Assignment2.cpp in Sources */,
 				1A6C41D31CE3A17100581A20 /* Exercise7.cpp in Sources */,
 				1AAC5E141CDD263100F62C01 /* Assignment1.cpp in Sources */,
+				1A565A251CF8AEE7000761B2 /* VectorsExer.cpp in Sources */,
 				1A162F8F1CEBA60200F7C4EB /* AddressExer10.cpp in Sources */,
 				1A162F8C1CEB899600F7C4EB /* AccountExer10.cpp in Sources */,
+				1A565A2D1CFCA979000761B2 /* ProtectedExer.cpp in Sources */,
 				1A9C40341CECF993007D6A8D /* BedExer11.cpp in Sources */,
 				1A9C404C1CEF9306007D6A8D /* VehicleAssignment.cpp in Sources */,
 				1AEC54C31CE504E8007E4D08 /* DriverExer8.cpp in Sources */,
