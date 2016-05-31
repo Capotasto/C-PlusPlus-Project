@@ -28,6 +28,7 @@
 #include "VectorsExer.hpp"
 #include "ProtectedExer.hpp"
 #include "driverAssignment4.hpp"
+#include "driverMidterm.hpp"
 
 int main(int argc, const char * argv[]) {
     
@@ -52,6 +53,7 @@ int main(int argc, const char * argv[]) {
     //mainClass15();
     //mainVectorsExer();
     //mainProtectedExer();
-    mainDriverAssignment4();
+    //mainDriverAssignment4();
+    driverMidterm();
     return 0;
 }

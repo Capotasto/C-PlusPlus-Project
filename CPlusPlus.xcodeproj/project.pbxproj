@@ -24,6 +24,9 @@
 		1A565A391CFCD013000761B2 /* PhoneAssignment4.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1A565A371CFCD013000761B2 /* PhoneAssignment4.cpp */; };
 		1A565A3C1CFCE123000761B2 /* driverAssignment4.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1A565A3A1CFCE123000761B2 /* driverAssignment4.cpp */; };
 		1A565A401CFD2A86000761B2 /* outFile.txt in CopyFiles */ = {isa = PBXBuildFile; fileRef = 1A565A3F1CFD2A86000761B2 /* outFile.txt */; };
+		1A565A431CFDF2F0000761B2 /* driverMidterm.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1A565A411CFDF2F0000761B2 /* driverMidterm.cpp */; };
+		1A565A461CFDF332000761B2 /* CarMidterm.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1A565A441CFDF332000761B2 /* CarMidterm.cpp */; };
+		1A565A491CFDF462000761B2 /* TechInforMidterm.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1A565A471CFDF462000761B2 /* TechInforMidterm.cpp */; };
 		1A6C41D31CE3A17100581A20 /* Exercise7.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1A6C41D11CE3A17100581A20 /* Exercise7.cpp */; };
 		1A9C40341CECF993007D6A8D /* BedExer11.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1A9C40321CECF993007D6A8D /* BedExer11.cpp */; };
 		1A9C40371CECFD76007D6A8D /* BunkBed.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1A9C40351CECFD76007D6A8D /* BunkBed.cpp */; };
@@ -107,6 +110,12 @@
 		1A565A3A1CFCE123000761B2 /* driverAssignment4.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = driverAssignment4.cpp; sourceTree = "<group>"; };
 		1A565A3B1CFCE123000761B2 /* driverAssignment4.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = driverAssignment4.hpp; sourceTree = "<group>"; };
 		1A565A3F1CFD2A86000761B2 /* outFile.txt */ = {isa = PBXFileReference; lastKnownFileType = text; name = outFile.txt; path = CPlusPlus/outFile.txt; sourceTree = "<group>"; };
+		1A565A411CFDF2F0000761B2 /* driverMidterm.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = driverMidterm.cpp; sourceTree = "<group>"; };
+		1A565A421CFDF2F0000761B2 /* driverMidterm.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = driverMidterm.hpp; sourceTree = "<group>"; };
+		1A565A441CFDF332000761B2 /* CarMidterm.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = CarMidterm.cpp; sourceTree = "<group>"; };
+		1A565A451CFDF332000761B2 /* CarMidterm.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = CarMidterm.hpp; sourceTree = "<group>"; };
+		1A565A471CFDF462000761B2 /* TechInforMidterm.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = TechInforMidterm.cpp; sourceTree = "<group>"; };
+		1A565A481CFDF462000761B2 /* TechInforMidterm.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = TechInforMidterm.hpp; sourceTree = "<group>"; };
 		1A6C41D11CE3A17100581A20 /* Exercise7.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Exercise7.cpp; sourceTree = "<group>"; };
 		1A6C41D21CE3A17100581A20 /* Exercise7.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Exercise7.hpp; sourceTree = "<group>"; };
 		1A9C40321CECF993007D6A8D /* BedExer11.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = BedExer11.cpp; sourceTree = "<group>"; };
@@ -209,6 +218,10 @@
 				1A565A351CFCD005000761B2 /* DateAssignmet4.hpp */,
 				1A565A371CFCD013000761B2 /* PhoneAssignment4.cpp */,
 				1A565A381CFCD013000761B2 /* PhoneAssignment4.hpp */,
+				1A565A441CFDF332000761B2 /* CarMidterm.cpp */,
+				1A565A451CFDF332000761B2 /* CarMidterm.hpp */,
+				1A565A471CFDF462000761B2 /* TechInforMidterm.cpp */,
+				1A565A481CFDF462000761B2 /* TechInforMidterm.hpp */,
 			);
 			name = Classes;
 			sourceTree = "<group>";
@@ -279,6 +292,8 @@
 				1A565A2C1CFCA979000761B2 /* ProtectedExer.hpp */,
 				1A565A3A1CFCE123000761B2 /* driverAssignment4.cpp */,
 				1A565A3B1CFCE123000761B2 /* driverAssignment4.hpp */,
+				1A565A411CFDF2F0000761B2 /* driverMidterm.cpp */,
+				1A565A421CFDF2F0000761B2 /* driverMidterm.hpp */,
 			);
 			path = CPlusPlus;
 			sourceTree = "<group>";
@@ -361,6 +376,7 @@
 				1A9C403A1CED186E007D6A8D /* Exer11.cpp in Sources */,
 				1A565A1F1CF77600000761B2 /* Class15.cpp in Sources */,
 				1A39DBF11CD90C92002E740D /* FirstExer.cpp in Sources */,
+				1A565A461CFDF332000761B2 /* CarMidterm.cpp in Sources */,
 				1A565A301CFCA9F3000761B2 /* House.cpp in Sources */,
 				1A39DBE61CD87DF9002E740D /* main.cpp in Sources */,
 				1A565A331CFCAA98000761B2 /* Apartment.cpp in Sources */,
@@ -383,6 +399,7 @@
 				1A565A361CFCD005000761B2 /* DateAssignmet4.cpp in Sources */,
 				1AEC54C01CE500AE007E4D08 /* ProductExer8.cpp in Sources */,
 				1AEC54C91CE63D90007E4D08 /* Airplane.cpp in Sources */,
+				1A565A431CFDF2F0000761B2 /* driverMidterm.cpp in Sources */,
 				1AAC5E171CE0F81900F62C01 /* Exercise5.cpp in Sources */,
 				1AAC5DEC1CDA595D00F62C01 /* Exerceise2.cpp in Sources */,
 				1AAC5E111CDCFD1400F62C01 /* Exercise4.cpp in Sources */,
@@ -392,6 +409,7 @@
 				1A565A3C1CFCE123000761B2 /* driverAssignment4.cpp in Sources */,
 				1AEC54CC1CEA44F9007E4D08 /* Exercise9.cpp in Sources */,
 				1A565A1C1CF60A68000761B2 /* GlobalNumberExer.cpp in Sources */,
+				1A565A491CFDF462000761B2 /* TechInforMidterm.cpp in Sources */,
 				1A9C40581CEFB7FE007D6A8D /* PassengerAssignment.cpp in Sources */,
 				1A162F891CEB88F800F7C4EB /* Excercise10.cpp in Sources */,
 				1A39DBEE1CD87EB1002E740D /* HomeWork.cpp in Sources */,
