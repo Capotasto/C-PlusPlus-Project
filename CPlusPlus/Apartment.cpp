@@ -9,7 +9,7 @@
 #include "Apartment.hpp"
 
 Apartment::Apartment(int landry, int parking, int strage, House &house)
-:mLandry(landry),mParking(parking),mStrage(strage),House(house){};
+:mLandry(landry),mParking(parking),mStrage(strage), House(house){};
 int Apartment::getLandry(){
     return mLandry;
 };
