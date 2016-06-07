@@ -29,6 +29,10 @@
 #include "ProtectedExer.hpp"
 #include "driverAssignment4.hpp"
 #include "driverMidterm.hpp"
+#include "driverParkingExer.hpp"
+#include "driverPolymorphism.hpp"
+#include "driverShape.hpp"
+#include "driverExceptionExer.hpp"
 
 int main(int argc, const char * argv[]) {
     
@@ -54,6 +58,11 @@ int main(int argc, const char * argv[]) {
     //mainVectorsExer();
     //mainProtectedExer();
     //mainDriverAssignment4();
-    driverMidterm();
+    //driverMidterm();
+    //mainDriverParkingExer();
+    //mainDriverPolymorphism();
+    //mainDriverShape();
+    driverExceptionExer();
+
     return 0;
 }
