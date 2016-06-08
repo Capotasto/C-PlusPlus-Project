@@ -33,6 +33,7 @@
 #include "driverPolymorphism.hpp"
 #include "driverShape.hpp"
 #include "driverExceptionExer.hpp"
+#include "driverTemplateExer.hpp"
 
 int main(int argc, const char * argv[]) {
     
@@ -62,7 +63,8 @@ int main(int argc, const char * argv[]) {
     //mainDriverParkingExer();
     //mainDriverPolymorphism();
     //mainDriverShape();
-    driverExceptionExer();
+    //driverExceptionExer();
+    driverTemplateExer();
 
     return 0;
 }

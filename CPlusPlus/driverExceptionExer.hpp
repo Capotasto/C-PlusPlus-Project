@@ -10,7 +10,8 @@
 #define driverExceptionExer_hpp
 
 #include <iostream>
-#include "DivideByZeroException.hpp"
+#include <stdexcept>// stdexcept header file contains runtime_error
+using std::runtime_error;
 
 using namespace std;
 
