@@ -43,6 +43,11 @@
 		1A9C40551CEFB5C8007D6A8D /* PickUpTruckAssignment.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1A9C40531CEFB5C8007D6A8D /* PickUpTruckAssignment.cpp */; };
 		1A9C40581CEFB7FE007D6A8D /* PassengerAssignment.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1A9C40561CEFB7FE007D6A8D /* PassengerAssignment.cpp */; };
 		1A9C405B1CEFBA2A007D6A8D /* driverAssignment3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1A9C40591CEFBA2A007D6A8D /* driverAssignment3.cpp */; };
+		1AAC201A1D0B2CD80020DAD5 /* driverAssignment5.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1AAC20181D0B2CD80020DAD5 /* driverAssignment5.cpp */; };
+		1AAC201D1D0B4A5C0020DAD5 /* inFile assignment5.txt in CopyFiles */ = {isa = PBXBuildFile; fileRef = 1AAC201B1D0B4A5C0020DAD5 /* inFile assignment5.txt */; };
+		1AAC201E1D0B4A5C0020DAD5 /* outFile assignment5.txt in CopyFiles */ = {isa = PBXBuildFile; fileRef = 1AAC201C1D0B4A5C0020DAD5 /* outFile assignment5.txt */; };
+		1AAC20211D0B4AD60020DAD5 /* inFile assignment5 copy.dat in CopyFiles */ = {isa = PBXBuildFile; fileRef = 1AAC201F1D0B4AD60020DAD5 /* inFile assignment5 copy.dat */; };
+		1AAC20221D0B4AD60020DAD5 /* outFile assignment5 copy.dat in CopyFiles */ = {isa = PBXBuildFile; fileRef = 1AAC20201D0B4AD60020DAD5 /* outFile assignment5 copy.dat */; };
 		1AAC5DEC1CDA595D00F62C01 /* Exerceise2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1AAC5DEA1CDA595D00F62C01 /* Exerceise2.cpp */; };
 		1AAC5DF21CDA9B7C00F62C01 /* HomeWorkExer2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1AAC5DF01CDA9B7C00F62C01 /* HomeWorkExer2.cpp */; };
 		1AAC5E0E1CDBB36700F62C01 /* Exercise3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1AAC5E0C1CDBB36700F62C01 /* Exercise3.cpp */; };
@@ -50,6 +55,23 @@
 		1AAC5E141CDD263100F62C01 /* Assignment1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1AAC5E121CDD263100F62C01 /* Assignment1.cpp */; };
 		1AAC5E171CE0F81900F62C01 /* Exercise5.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1AAC5E151CE0F81900F62C01 /* Exercise5.cpp */; };
 		1AAC5E1A1CE249AF00F62C01 /* Exercise6.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1AAC5E181CE249AF00F62C01 /* Exercise6.cpp */; };
+		1ADAD14B1D0F1EE700B901DB /* Service.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1ADAD1491D0F1EE700B901DB /* Service.cpp */; };
+		1ADAD14E1D0F1EFE00B901DB /* Phone.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1ADAD14C1D0F1EFE00B901DB /* Phone.cpp */; };
+		1ADAD1511D0F1F1A00B901DB /* Camera.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1ADAD14F1D0F1F1A00B901DB /* Camera.cpp */; };
+		1ADAD1541D0F1F2B00B901DB /* VideoCamera.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1ADAD1521D0F1F2B00B901DB /* VideoCamera.cpp */; };
+		1ADAD1571D0F235500B901DB /* PictureCamera.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1ADAD1551D0F235500B901DB /* PictureCamera.cpp */; };
+		1ADAD15A1D0F236100B901DB /* Player.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1ADAD1581D0F236100B901DB /* Player.cpp */; };
+		1ADAD15D1D0F236E00B901DB /* Mp3Player.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1ADAD15B1D0F236E00B901DB /* Mp3Player.cpp */; };
+		1ADAD1601D0F237E00B901DB /* VideoPlayer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1ADAD15E1D0F237E00B901DB /* VideoPlayer.cpp */; };
+		1ADAD1631D0F239200B901DB /* Messaging.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1ADAD1611D0F239200B901DB /* Messaging.cpp */; };
+		1ADAD1661D0F239C00B901DB /* SmallMessaging.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1ADAD1641D0F239C00B901DB /* SmallMessaging.cpp */; };
+		1ADAD1691D0F23B100B901DB /* MultimediaMessaging.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1ADAD1671D0F23B100B901DB /* MultimediaMessaging.cpp */; };
+		1ADAD16C1D0F23B900B901DB /* Gameconsole.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1ADAD16A1D0F23B900B901DB /* Gameconsole.cpp */; };
+		1ADAD16F1D0F23E000B901DB /* Dayplanner.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1ADAD16D1D0F23E000B901DB /* Dayplanner.cpp */; };
+		1ADAD1721D0F23EB00B901DB /* EmailClient.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1ADAD1701D0F23EB00B901DB /* EmailClient.cpp */; };
+		1ADAD1751D0F23F400B901DB /* Gmail.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1ADAD1731D0F23F400B901DB /* Gmail.cpp */; };
+		1ADAD1781D0F23FC00B901DB /* Yahoo.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1ADAD1761D0F23FC00B901DB /* Yahoo.cpp */; };
+		1ADAD17B1D106DF400B901DB /* StringFunctionExer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1ADAD1791D106DF400B901DB /* StringFunctionExer.cpp */; };
 		1ADF40851D0600D5009B69F3 /* Shape.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1ADF40831D0600D5009B69F3 /* Shape.cpp */; };
 		1ADF40881D060326009B69F3 /* Rectangle.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1ADF40861D060326009B69F3 /* Rectangle.cpp */; };
 		1ADF408B1D06041D009B69F3 /* Triangle.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1ADF40891D06041D009B69F3 /* Triangle.cpp */; };
@@ -57,6 +79,8 @@
 		1ADF40B21D0758AC009B69F3 /* DivideByZeroException.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1ADF40B01D0758AC009B69F3 /* DivideByZeroException.cpp */; };
 		1ADF40B51D07596C009B69F3 /* driverExceptionExer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1ADF40B31D07596C009B69F3 /* driverExceptionExer.cpp */; };
 		1ADF40C21D08A365009B69F3 /* driverTemplateExer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1ADF40C01D08A365009B69F3 /* driverTemplateExer.cpp */; };
+		1ADF40C81D0A0036009B69F3 /* ListDriver.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1ADF40C61D0A0036009B69F3 /* ListDriver.cpp */; };
+		1ADF40C91D0A0036009B69F3 /* TemplateClassDriver.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1ADF40C71D0A0036009B69F3 /* TemplateClassDriver.cpp */; };
 		1AEC54BD1CE4FF33007E4D08 /* Assignment2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1AEC54BB1CE4FF33007E4D08 /* Assignment2.cpp */; };
 		1AEC54C01CE500AE007E4D08 /* ProductExer8.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1AEC54BE1CE500AE007E4D08 /* ProductExer8.cpp */; };
 		1AEC54C31CE504E8007E4D08 /* DriverExer8.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1AEC54C11CE504E8007E4D08 /* DriverExer8.cpp */; };
@@ -82,6 +106,10 @@
 			dstPath = "";
 			dstSubfolderSpec = 16;
 			files = (
+				1AAC20211D0B4AD60020DAD5 /* inFile assignment5 copy.dat in CopyFiles */,
+				1AAC20221D0B4AD60020DAD5 /* outFile assignment5 copy.dat in CopyFiles */,
+				1AAC201D1D0B4A5C0020DAD5 /* inFile assignment5.txt in CopyFiles */,
+				1AAC201E1D0B4A5C0020DAD5 /* outFile assignment5.txt in CopyFiles */,
 				1A7DE6EE1CFFB14500C8FBEA /* ParkingData.dat in CopyFiles */,
 				1A565A401CFD2A86000761B2 /* outFile.txt in CopyFiles */,
 			);
@@ -160,6 +188,12 @@
 		1A9C40571CEFB7FE007D6A8D /* PassengerAssignment.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = PassengerAssignment.hpp; sourceTree = "<group>"; };
 		1A9C40591CEFBA2A007D6A8D /* driverAssignment3.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = driverAssignment3.cpp; sourceTree = "<group>"; };
 		1A9C405A1CEFBA2A007D6A8D /* driverAssignment3.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = driverAssignment3.hpp; sourceTree = "<group>"; };
+		1AAC20181D0B2CD80020DAD5 /* driverAssignment5.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = driverAssignment5.cpp; sourceTree = "<group>"; };
+		1AAC20191D0B2CD80020DAD5 /* driverAssignment5.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = driverAssignment5.hpp; sourceTree = "<group>"; };
+		1AAC201B1D0B4A5C0020DAD5 /* inFile assignment5.txt */ = {isa = PBXFileReference; lastKnownFileType = text; name = "inFile assignment5.txt"; path = "CPlusPlus/inFile assignment5.txt"; sourceTree = "<group>"; };
+		1AAC201C1D0B4A5C0020DAD5 /* outFile assignment5.txt */ = {isa = PBXFileReference; lastKnownFileType = text; name = "outFile assignment5.txt"; path = "CPlusPlus/outFile assignment5.txt"; sourceTree = "<group>"; };
+		1AAC201F1D0B4AD60020DAD5 /* inFile assignment5 copy.dat */ = {isa = PBXFileReference; lastKnownFileType = text; name = "inFile assignment5 copy.dat"; path = "CPlusPlus/inFile assignment5 copy.dat"; sourceTree = "<group>"; };
+		1AAC20201D0B4AD60020DAD5 /* outFile assignment5 copy.dat */ = {isa = PBXFileReference; lastKnownFileType = text; name = "outFile assignment5 copy.dat"; path = "CPlusPlus/outFile assignment5 copy.dat"; sourceTree = "<group>"; };
 		1AAC5DEA1CDA595D00F62C01 /* Exerceise2.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Exerceise2.cpp; sourceTree = "<group>"; };
 		1AAC5DEB1CDA595D00F62C01 /* Exerceise2.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Exerceise2.hpp; sourceTree = "<group>"; };
 		1AAC5DF01CDA9B7C00F62C01 /* HomeWorkExer2.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = HomeWorkExer2.cpp; sourceTree = "<group>"; };
@@ -174,6 +208,40 @@
 		1AAC5E161CE0F81900F62C01 /* Exercise5.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Exercise5.hpp; sourceTree = "<group>"; };
 		1AAC5E181CE249AF00F62C01 /* Exercise6.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Exercise6.cpp; sourceTree = "<group>"; };
 		1AAC5E191CE249AF00F62C01 /* Exercise6.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Exercise6.hpp; sourceTree = "<group>"; };
+		1ADAD1491D0F1EE700B901DB /* Service.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Service.cpp; sourceTree = "<group>"; };
+		1ADAD14A1D0F1EE700B901DB /* Service.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Service.hpp; sourceTree = "<group>"; };
+		1ADAD14C1D0F1EFE00B901DB /* Phone.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Phone.cpp; sourceTree = "<group>"; };
+		1ADAD14D1D0F1EFE00B901DB /* Phone.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Phone.hpp; sourceTree = "<group>"; };
+		1ADAD14F1D0F1F1A00B901DB /* Camera.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Camera.cpp; sourceTree = "<group>"; };
+		1ADAD1501D0F1F1A00B901DB /* Camera.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Camera.hpp; sourceTree = "<group>"; };
+		1ADAD1521D0F1F2B00B901DB /* VideoCamera.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = VideoCamera.cpp; sourceTree = "<group>"; };
+		1ADAD1531D0F1F2B00B901DB /* VideoCamera.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = VideoCamera.hpp; sourceTree = "<group>"; };
+		1ADAD1551D0F235500B901DB /* PictureCamera.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = PictureCamera.cpp; sourceTree = "<group>"; };
+		1ADAD1561D0F235500B901DB /* PictureCamera.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = PictureCamera.hpp; sourceTree = "<group>"; };
+		1ADAD1581D0F236100B901DB /* Player.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Player.cpp; sourceTree = "<group>"; };
+		1ADAD1591D0F236100B901DB /* Player.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Player.hpp; sourceTree = "<group>"; };
+		1ADAD15B1D0F236E00B901DB /* Mp3Player.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Mp3Player.cpp; sourceTree = "<group>"; };
+		1ADAD15C1D0F236E00B901DB /* Mp3Player.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Mp3Player.hpp; sourceTree = "<group>"; };
+		1ADAD15E1D0F237E00B901DB /* VideoPlayer.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = VideoPlayer.cpp; sourceTree = "<group>"; };
+		1ADAD15F1D0F237E00B901DB /* VideoPlayer.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = VideoPlayer.hpp; sourceTree = "<group>"; };
+		1ADAD1611D0F239200B901DB /* Messaging.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Messaging.cpp; sourceTree = "<group>"; };
+		1ADAD1621D0F239200B901DB /* Messaging.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Messaging.hpp; sourceTree = "<group>"; };
+		1ADAD1641D0F239C00B901DB /* SmallMessaging.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SmallMessaging.cpp; sourceTree = "<group>"; };
+		1ADAD1651D0F239C00B901DB /* SmallMessaging.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = SmallMessaging.hpp; sourceTree = "<group>"; };
+		1ADAD1671D0F23B100B901DB /* MultimediaMessaging.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = MultimediaMessaging.cpp; sourceTree = "<group>"; };
+		1ADAD1681D0F23B100B901DB /* MultimediaMessaging.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = MultimediaMessaging.hpp; sourceTree = "<group>"; };
+		1ADAD16A1D0F23B900B901DB /* Gameconsole.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Gameconsole.cpp; sourceTree = "<group>"; };
+		1ADAD16B1D0F23B900B901DB /* Gameconsole.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Gameconsole.hpp; sourceTree = "<group>"; };
+		1ADAD16D1D0F23E000B901DB /* Dayplanner.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Dayplanner.cpp; sourceTree = "<group>"; };
+		1ADAD16E1D0F23E000B901DB /* Dayplanner.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Dayplanner.hpp; sourceTree = "<group>"; };
+		1ADAD1701D0F23EB00B901DB /* EmailClient.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = EmailClient.cpp; sourceTree = "<group>"; };
+		1ADAD1711D0F23EB00B901DB /* EmailClient.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = EmailClient.hpp; sourceTree = "<group>"; };
+		1ADAD1731D0F23F400B901DB /* Gmail.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Gmail.cpp; sourceTree = "<group>"; };
+		1ADAD1741D0F23F400B901DB /* Gmail.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Gmail.hpp; sourceTree = "<group>"; };
+		1ADAD1761D0F23FC00B901DB /* Yahoo.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Yahoo.cpp; sourceTree = "<group>"; };
+		1ADAD1771D0F23FC00B901DB /* Yahoo.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Yahoo.hpp; sourceTree = "<group>"; };
+		1ADAD1791D106DF400B901DB /* StringFunctionExer.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = StringFunctionExer.cpp; sourceTree = "<group>"; };
+		1ADAD17A1D106DF400B901DB /* StringFunctionExer.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = StringFunctionExer.hpp; sourceTree = "<group>"; };
 		1ADF40831D0600D5009B69F3 /* Shape.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Shape.cpp; sourceTree = "<group>"; };
 		1ADF40841D0600D5009B69F3 /* Shape.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Shape.hpp; sourceTree = "<group>"; };
 		1ADF40861D060326009B69F3 /* Rectangle.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Rectangle.cpp; sourceTree = "<group>"; };
@@ -188,6 +256,11 @@
 		1ADF40B41D07596C009B69F3 /* driverExceptionExer.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = driverExceptionExer.hpp; sourceTree = "<group>"; };
 		1ADF40C01D08A365009B69F3 /* driverTemplateExer.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = driverTemplateExer.cpp; sourceTree = "<group>"; };
 		1ADF40C11D08A365009B69F3 /* driverTemplateExer.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = driverTemplateExer.hpp; sourceTree = "<group>"; };
+		1ADF40C31D0A002C009B69F3 /* List.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = List.h; sourceTree = "<group>"; };
+		1ADF40C41D0A002C009B69F3 /* ListNode.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ListNode.h; sourceTree = "<group>"; };
+		1ADF40C51D0A002C009B69F3 /* TemplateClass.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TemplateClass.h; sourceTree = "<group>"; };
+		1ADF40C61D0A0036009B69F3 /* ListDriver.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ListDriver.cpp; sourceTree = "<group>"; };
+		1ADF40C71D0A0036009B69F3 /* TemplateClassDriver.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = TemplateClassDriver.cpp; sourceTree = "<group>"; };
 		1AEC54BB1CE4FF33007E4D08 /* Assignment2.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Assignment2.cpp; sourceTree = "<group>"; };
 		1AEC54BC1CE4FF33007E4D08 /* Assignment2.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Assignment2.hpp; sourceTree = "<group>"; };
 		1AEC54BE1CE500AE007E4D08 /* ProductExer8.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ProductExer8.cpp; sourceTree = "<group>"; };
@@ -265,6 +338,10 @@
 		1A39DBD91CD87DF8002E740D = {
 			isa = PBXGroup;
 			children = (
+				1AAC201F1D0B4AD60020DAD5 /* inFile assignment5 copy.dat */,
+				1AAC20201D0B4AD60020DAD5 /* outFile assignment5 copy.dat */,
+				1AAC201B1D0B4A5C0020DAD5 /* inFile assignment5.txt */,
+				1AAC201C1D0B4A5C0020DAD5 /* outFile assignment5.txt */,
 				1A7DE6ED1CFFB14500C8FBEA /* ParkingData.dat */,
 				1A565A3F1CFD2A86000761B2 /* outFile.txt */,
 				1A39DBE41CD87DF9002E740D /* CPlusPlus */,
@@ -368,6 +445,41 @@
 				1ADF408A1D06041D009B69F3 /* Triangle.hpp */,
 				1ADF40B01D0758AC009B69F3 /* DivideByZeroException.cpp */,
 				1ADF40B11D0758AC009B69F3 /* DivideByZeroException.hpp */,
+				1ADF40C31D0A002C009B69F3 /* List.h */,
+				1ADF40C41D0A002C009B69F3 /* ListNode.h */,
+				1ADF40C51D0A002C009B69F3 /* TemplateClass.h */,
+				1ADAD1491D0F1EE700B901DB /* Service.cpp */,
+				1ADAD14A1D0F1EE700B901DB /* Service.hpp */,
+				1ADAD14C1D0F1EFE00B901DB /* Phone.cpp */,
+				1ADAD14D1D0F1EFE00B901DB /* Phone.hpp */,
+				1ADAD14F1D0F1F1A00B901DB /* Camera.cpp */,
+				1ADAD1501D0F1F1A00B901DB /* Camera.hpp */,
+				1ADAD1521D0F1F2B00B901DB /* VideoCamera.cpp */,
+				1ADAD1531D0F1F2B00B901DB /* VideoCamera.hpp */,
+				1ADAD1551D0F235500B901DB /* PictureCamera.cpp */,
+				1ADAD1561D0F235500B901DB /* PictureCamera.hpp */,
+				1ADAD1581D0F236100B901DB /* Player.cpp */,
+				1ADAD1591D0F236100B901DB /* Player.hpp */,
+				1ADAD15B1D0F236E00B901DB /* Mp3Player.cpp */,
+				1ADAD15C1D0F236E00B901DB /* Mp3Player.hpp */,
+				1ADAD15E1D0F237E00B901DB /* VideoPlayer.cpp */,
+				1ADAD15F1D0F237E00B901DB /* VideoPlayer.hpp */,
+				1ADAD1611D0F239200B901DB /* Messaging.cpp */,
+				1ADAD1621D0F239200B901DB /* Messaging.hpp */,
+				1ADAD1641D0F239C00B901DB /* SmallMessaging.cpp */,
+				1ADAD1651D0F239C00B901DB /* SmallMessaging.hpp */,
+				1ADAD1671D0F23B100B901DB /* MultimediaMessaging.cpp */,
+				1ADAD1681D0F23B100B901DB /* MultimediaMessaging.hpp */,
+				1ADAD16A1D0F23B900B901DB /* Gameconsole.cpp */,
+				1ADAD16B1D0F23B900B901DB /* Gameconsole.hpp */,
+				1ADAD16D1D0F23E000B901DB /* Dayplanner.cpp */,
+				1ADAD16E1D0F23E000B901DB /* Dayplanner.hpp */,
+				1ADAD1701D0F23EB00B901DB /* EmailClient.cpp */,
+				1ADAD1711D0F23EB00B901DB /* EmailClient.hpp */,
+				1ADAD1731D0F23F400B901DB /* Gmail.cpp */,
+				1ADAD1741D0F23F400B901DB /* Gmail.hpp */,
+				1ADAD1761D0F23FC00B901DB /* Yahoo.cpp */,
+				1ADAD1771D0F23FC00B901DB /* Yahoo.hpp */,
 			);
 			name = Classes;
 			sourceTree = "<group>";
@@ -385,6 +497,12 @@
 				1ADF40B41D07596C009B69F3 /* driverExceptionExer.hpp */,
 				1ADF40C01D08A365009B69F3 /* driverTemplateExer.cpp */,
 				1ADF40C11D08A365009B69F3 /* driverTemplateExer.hpp */,
+				1ADF40C61D0A0036009B69F3 /* ListDriver.cpp */,
+				1ADF40C71D0A0036009B69F3 /* TemplateClassDriver.cpp */,
+				1AAC20181D0B2CD80020DAD5 /* driverAssignment5.cpp */,
+				1AAC20191D0B2CD80020DAD5 /* driverAssignment5.hpp */,
+				1ADAD1791D106DF400B901DB /* StringFunctionExer.cpp */,
+				1ADAD17A1D106DF400B901DB /* StringFunctionExer.hpp */,
 			);
 			name = drivers;
 			sourceTree = "<group>";
@@ -463,29 +581,44 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1ADAD1601D0F237E00B901DB /* VideoPlayer.cpp in Sources */,
+				1ADAD1691D0F23B100B901DB /* MultimediaMessaging.cpp in Sources */,
 				1A162F921CEBA61A00F7C4EB /* DepartmentExer10.cpp in Sources */,
 				1A9C403A1CED186E007D6A8D /* Exer11.cpp in Sources */,
+				1ADAD1541D0F1F2B00B901DB /* VideoCamera.cpp in Sources */,
 				1A565A1F1CF77600000761B2 /* Class15.cpp in Sources */,
 				1A39DBF11CD90C92002E740D /* FirstExer.cpp in Sources */,
+				1ADAD1511D0F1F1A00B901DB /* Camera.cpp in Sources */,
 				1A565A461CFDF332000761B2 /* CarMidterm.cpp in Sources */,
+				1ADAD14B1D0F1EE700B901DB /* Service.cpp in Sources */,
 				1A565A501CFF63C1000761B2 /* ParkingSpot.cpp in Sources */,
 				1A565A301CFCA9F3000761B2 /* House.cpp in Sources */,
 				1A39DBE61CD87DF9002E740D /* main.cpp in Sources */,
+				1ADAD1751D0F23F400B901DB /* Gmail.cpp in Sources */,
 				1A565A331CFCAA98000761B2 /* Apartment.cpp in Sources */,
+				1ADAD17B1D106DF400B901DB /* StringFunctionExer.cpp in Sources */,
 				1AAC5E1A1CE249AF00F62C01 /* Exercise6.cpp in Sources */,
 				1AEC54CF1CEA50AC007E4D08 /* ClassRoom.cpp in Sources */,
+				1ADAD14E1D0F1EFE00B901DB /* Phone.cpp in Sources */,
 				1ADF40881D060326009B69F3 /* Rectangle.cpp in Sources */,
+				1AAC201A1D0B2CD80020DAD5 /* driverAssignment5.cpp in Sources */,
 				1A9C40521CEFB20F007D6A8D /* DutyTruckAssignment.cpp in Sources */,
 				1A9C404F1CEF96F6007D6A8D /* TruckAssignment.cpp in Sources */,
 				1AEC54C61CE50B56007E4D08 /* EmployeeExer8.cpp in Sources */,
 				1AEC54BD1CE4FF33007E4D08 /* Assignment2.cpp in Sources */,
+				1ADAD1721D0F23EB00B901DB /* EmailClient.cpp in Sources */,
 				1A6C41D31CE3A17100581A20 /* Exercise7.cpp in Sources */,
 				1AAC5E141CDD263100F62C01 /* Assignment1.cpp in Sources */,
 				1ADF40C21D08A365009B69F3 /* driverTemplateExer.cpp in Sources */,
+				1ADAD15D1D0F236E00B901DB /* Mp3Player.cpp in Sources */,
 				1A565A251CF8AEE7000761B2 /* VectorsExer.cpp in Sources */,
+				1ADAD1631D0F239200B901DB /* Messaging.cpp in Sources */,
 				1A162F8F1CEBA60200F7C4EB /* AddressExer10.cpp in Sources */,
 				1A162F8C1CEB899600F7C4EB /* AccountExer10.cpp in Sources */,
+				1ADAD1661D0F239C00B901DB /* SmallMessaging.cpp in Sources */,
 				1A565A2D1CFCA979000761B2 /* ProtectedExer.cpp in Sources */,
+				1ADAD16F1D0F23E000B901DB /* Dayplanner.cpp in Sources */,
+				1ADF40C91D0A0036009B69F3 /* TemplateClassDriver.cpp in Sources */,
 				1A9C40341CECF993007D6A8D /* BedExer11.cpp in Sources */,
 				1ADF408B1D06041D009B69F3 /* Triangle.cpp in Sources */,
 				1A565A391CFCD013000761B2 /* PhoneAssignment4.cpp in Sources */,
@@ -497,7 +630,9 @@
 				1ADF408E1D0604BD009B69F3 /* driverShape.cpp in Sources */,
 				1AEC54C91CE63D90007E4D08 /* Airplane.cpp in Sources */,
 				1A565A431CFDF2F0000761B2 /* driverMidterm.cpp in Sources */,
+				1ADAD15A1D0F236100B901DB /* Player.cpp in Sources */,
 				1AAC5E171CE0F81900F62C01 /* Exercise5.cpp in Sources */,
+				1ADAD16C1D0F23B900B901DB /* Gameconsole.cpp in Sources */,
 				1AAC5DEC1CDA595D00F62C01 /* Exerceise2.cpp in Sources */,
 				1AAC5E111CDCFD1400F62C01 /* Exercise4.cpp in Sources */,
 				1A85B4571D01F2B30027047B /* driverPolymorphism.cpp in Sources */,
@@ -510,14 +645,17 @@
 				1AEC54CC1CEA44F9007E4D08 /* Exercise9.cpp in Sources */,
 				1A565A1C1CF60A68000761B2 /* GlobalNumberExer.cpp in Sources */,
 				1A565A491CFDF462000761B2 /* TechInforMidterm.cpp in Sources */,
+				1ADF40C81D0A0036009B69F3 /* ListDriver.cpp in Sources */,
 				1A9C40581CEFB7FE007D6A8D /* PassengerAssignment.cpp in Sources */,
 				1ADF40B51D07596C009B69F3 /* driverExceptionExer.cpp in Sources */,
 				1A162F891CEB88F800F7C4EB /* Excercise10.cpp in Sources */,
 				1A39DBEE1CD87EB1002E740D /* HomeWork.cpp in Sources */,
 				1A9C403D1CED42F7007D6A8D /* DayBed.cpp in Sources */,
 				1A565A561CFF63EF000761B2 /* driverParkingExer.cpp in Sources */,
+				1ADAD1781D0F23FC00B901DB /* Yahoo.cpp in Sources */,
 				1A9C405B1CEFBA2A007D6A8D /* driverAssignment3.cpp in Sources */,
 				1A9C40371CECFD76007D6A8D /* BunkBed.cpp in Sources */,
+				1ADAD1571D0F235500B901DB /* PictureCamera.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

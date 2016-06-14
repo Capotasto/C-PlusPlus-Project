@@ -34,6 +34,8 @@
 #include "driverShape.hpp"
 #include "driverExceptionExer.hpp"
 #include "driverTemplateExer.hpp"
+#include "driverAssignment5.hpp"
+#include "StringFunctionExer.hpp"
 
 int main(int argc, const char * argv[]) {
     
@@ -64,7 +66,9 @@ int main(int argc, const char * argv[]) {
     //mainDriverPolymorphism();
     //mainDriverShape();
     //driverExceptionExer();
-    driverTemplateExer();
+    //driverTemplateExer();
+    //mainDriverAssignment5();
+    mainStringFunctionExer();
 
     return 0;
 }
