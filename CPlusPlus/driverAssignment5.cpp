@@ -61,9 +61,7 @@ void readFromSequentialFile(List<string> &list){
     while (getline(infile, str)){
         list.insertAtFront(str);
     }
-    
     cout << "File input has done." << endl;
-
 }
 
 void writeToRandomFile(List<string> &list){
@@ -83,11 +81,7 @@ void writeToRandomFile(List<string> &list){
         if (node != NULL) {
             outFile.write(reinterpret_cast< const char * >(node),sizeof(ListNode<string>));
         }
-
     }
-    
-    
-    
 }
 
 void readFromRandomFile(List<string> &list){
@@ -98,11 +92,10 @@ void readFromRandomFile(List<string> &list){
         exit(1);
     }
     while (inFile && !inFile.eof()){
-        string str = "";
-        //ListNode<string>* node(str);
+        ListNode<string> node;
         // read
-        inFile.read(reinterpret_cast< char * >(&list),sizeof(ListNode<string>));
-        //getline(reinterpret_cast< char * >(&list), sizeof(List<string>));
+        inFile.read(reinterpret_cast< char * >(&node),sizeof(ListNode<string>));
+        list.insertAtBack(node.getData());
     }
     for (int i = 0; i < list.getSize(); i++) {
         cout << list.getValue(i) << " " << endl;
@@ -114,6 +107,7 @@ void mainDriverAssignment5(){
     int choice=0;
     string inputStr;
     List<string> doublyList;
+    List<string> newDoublyList;
     
     while (choice != 11) {
         displayMenuAssignment5();
@@ -154,7 +148,7 @@ void mainDriverAssignment5(){
                 writeToRandomFile(doublyList);
                 break;
             case IN_RANDOM_FILE:
-                readFromRandomFile(doublyList);
+                readFromRandomFile(newDoublyList);
                 break;
                 
             case QUIT:

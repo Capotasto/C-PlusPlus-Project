@@ -36,6 +36,10 @@
 #include "driverTemplateExer.hpp"
 #include "driverAssignment5.hpp"
 #include "StringFunctionExer.hpp"
+#include "RandomStringQuiz.hpp"
+#include "htmlReader.hpp"
+#include "driverAssignment6.hpp"
+#include "driverBookDetail.hpp"
 
 int main(int argc, const char * argv[]) {
     
@@ -68,7 +72,11 @@ int main(int argc, const char * argv[]) {
     //driverExceptionExer();
     //driverTemplateExer();
     //mainDriverAssignment5();
-    mainStringFunctionExer();
+    //mainStringFunctionExer();
+    //mainRandomStringQuiz();
+    //mainHtmlReader();
+    //mainDriverAssignment6();
+    mainDriverBookDetail();
 
     return 0;
 }

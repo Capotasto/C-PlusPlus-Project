@@ -10,6 +10,7 @@ class ListNode{
 	friend class List< NODETYPE >; // make List a friend
 
 public:
+    ListNode();
 	ListNode(const NODETYPE &);
 	NODETYPE getData() const;
 private:
@@ -17,6 +18,12 @@ private:
 	ListNode< NODETYPE > *nextPtr;
     ListNode< NODETYPE > *previousPtr;
 };
+
+// constructor
+template< typename NODETYPE >
+ListNode< NODETYPE >::ListNode()
+: data(""), nextPtr(0), previousPtr(0){}
+
 
 // constructor
 template< typename NODETYPE >
