@@ -9,8 +9,13 @@
 #include "driverStringActivity.hpp"
 
 
-void mainDriverStingActivity(){
+void mainDriverStringActivity(){
 
+    String str("norio_norio");
+    
+    cout << str.getLength() << endl;
+    
+    cout << str << endl;
     
     
 }

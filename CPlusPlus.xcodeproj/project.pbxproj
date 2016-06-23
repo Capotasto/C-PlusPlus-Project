@@ -64,6 +64,8 @@
 		1ADAD1971D146B8900B901DB /* driverBookDetail.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1ADAD1951D146B8900B901DB /* driverBookDetail.cpp */; };
 		1ADAD19A1D14790400B901DB /* String.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1ADAD1981D14790400B901DB /* String.cpp */; };
 		1ADAD19D1D147A5100B901DB /* driverStringActivity.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1ADAD19B1D147A5100B901DB /* driverStringActivity.cpp */; };
+		1ADAD1A61D1B44E900B901DB /* Complex.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1ADAD1A41D1B44E900B901DB /* Complex.cpp */; };
+		1ADAD1A91D1B5DBB00B901DB /* driverComplex.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1ADAD1A71D1B5DBB00B901DB /* driverComplex.cpp */; };
 		1ADF40851D0600D5009B69F3 /* Shape.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1ADF40831D0600D5009B69F3 /* Shape.cpp */; };
 		1ADF40881D060326009B69F3 /* Rectangle.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1ADF40861D060326009B69F3 /* Rectangle.cpp */; };
 		1ADF408B1D06041D009B69F3 /* Triangle.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1ADF40891D06041D009B69F3 /* Triangle.cpp */; };
@@ -219,6 +221,10 @@
 		1ADAD1991D14790400B901DB /* String.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = String.h; sourceTree = "<group>"; };
 		1ADAD19B1D147A5100B901DB /* driverStringActivity.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = driverStringActivity.cpp; sourceTree = "<group>"; };
 		1ADAD19C1D147A5100B901DB /* driverStringActivity.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = driverStringActivity.hpp; sourceTree = "<group>"; };
+		1ADAD1A41D1B44E900B901DB /* Complex.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Complex.cpp; sourceTree = "<group>"; };
+		1ADAD1A51D1B44E900B901DB /* Complex.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Complex.hpp; sourceTree = "<group>"; };
+		1ADAD1A71D1B5DBB00B901DB /* driverComplex.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = driverComplex.cpp; sourceTree = "<group>"; };
+		1ADAD1A81D1B5DBB00B901DB /* driverComplex.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = driverComplex.hpp; sourceTree = "<group>"; };
 		1ADF40831D0600D5009B69F3 /* Shape.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Shape.cpp; sourceTree = "<group>"; };
 		1ADF40841D0600D5009B69F3 /* Shape.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Shape.hpp; sourceTree = "<group>"; };
 		1ADF40861D060326009B69F3 /* Rectangle.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Rectangle.cpp; sourceTree = "<group>"; };
@@ -432,6 +438,8 @@
 				1ADAD1931D14665E00B901DB /* BookDetail.hpp */,
 				1ADAD1981D14790400B901DB /* String.cpp */,
 				1ADAD1991D14790400B901DB /* String.h */,
+				1ADAD1A41D1B44E900B901DB /* Complex.cpp */,
+				1ADAD1A51D1B44E900B901DB /* Complex.hpp */,
 			);
 			name = Classes;
 			sourceTree = "<group>";
@@ -465,6 +473,8 @@
 				1ADAD1961D146B8900B901DB /* driverBookDetail.hpp */,
 				1ADAD19B1D147A5100B901DB /* driverStringActivity.cpp */,
 				1ADAD19C1D147A5100B901DB /* driverStringActivity.hpp */,
+				1ADAD1A71D1B5DBB00B901DB /* driverComplex.cpp */,
+				1ADAD1A81D1B5DBB00B901DB /* driverComplex.hpp */,
 			);
 			name = drivers;
 			sourceTree = "<group>";
@@ -581,8 +591,10 @@
 				1AEC54C31CE504E8007E4D08 /* DriverExer8.cpp in Sources */,
 				1A565A361CFCD005000761B2 /* DateAssignmet4.cpp in Sources */,
 				1AEC54C01CE500AE007E4D08 /* ProductExer8.cpp in Sources */,
+				1ADAD1A91D1B5DBB00B901DB /* driverComplex.cpp in Sources */,
 				1ADF408E1D0604BD009B69F3 /* driverShape.cpp in Sources */,
 				1AEC54C91CE63D90007E4D08 /* Airplane.cpp in Sources */,
+				1ADAD1A61D1B44E900B901DB /* Complex.cpp in Sources */,
 				1A565A431CFDF2F0000761B2 /* driverMidterm.cpp in Sources */,
 				1AAC5E171CE0F81900F62C01 /* Exercise5.cpp in Sources */,
 				1AAC5DEC1CDA595D00F62C01 /* Exerceise2.cpp in Sources */,

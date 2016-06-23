@@ -12,6 +12,8 @@
 #include <stdio.h>
 #include "String.h"
 
-void mainDriverStingActivity();
+using namespace std;
+
+void mainDriverStringActivity();
 
 #endif /* driverStringActivity_hpp */

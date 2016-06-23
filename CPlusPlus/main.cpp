@@ -40,6 +40,8 @@
 #include "htmlReader.hpp"
 #include "driverAssignment6.hpp"
 #include "driverBookDetail.hpp"
+#include "driverStringActivity.hpp"
+#include "driverComplex.hpp"
 
 int main(int argc, const char * argv[]) {
     
@@ -76,7 +78,9 @@ int main(int argc, const char * argv[]) {
     //mainRandomStringQuiz();
     //mainHtmlReader();
     //mainDriverAssignment6();
-    mainDriverBookDetail();
+    //mainDriverBookDetail();
+    //mainDriverStringActivity();
+    mainDriverComplex();
 
     return 0;
 }
